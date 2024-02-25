@@ -1,0 +1,82 @@
+{
+  "eventInfo": {
+    "name": "Centenary 24h of Le Mans",
+    "year": 2023,
+    "currentLap": 31,
+    "totalLaps": 342,
+    "elapsedTime": 8498
+  },
+  "plotInfo": {
+    "amountOfLines": 6,
+    "secondsPerLine": 18,
+    "secondsPerLineIsLaps": false,
+    "linesPerLap": 2
+  },
+  "description": "After an hour and a half, [b]the #50 Ferrari and the #3 Cadillac were leading the race[/b] after following an alternate strategy when [b]two LMP2 crashes in 10 minutes caused a Slow Zone[/b].\nUnluckily, [b]a GTE car hit the #3 Cadillac from behind[/b] after failing to slow down at the start of the Slow Zone, causing it rear damage that forced it to pit.\nMost of the leading cars took advantage of the situation to pit, and the [b]#8 Toyota regained the lead[/b]. [b]The #2 Cadillac and the #5 and #75 Porsches pitted later and lost time[/b] with the lead.\nAt the front, an intense battle for the top places continued, while [b]the #7 Toyota and the Peugeots were struggling[/b].\n[b]After a slow pit stop, the #709 Glickenhaus also lost contact with the peloton[/b].",
+  "classification": [
+    {
+      "number": 8,
+      "distance": 0.0
+    },
+    {
+      "number": 38,
+      "distance": 9.871999999999389
+    },
+    {
+      "number": 6,
+      "distance": 10.747999999999593
+    },
+    {
+      "number": 50,
+      "distance": 11.811999999999898
+    },
+    {
+      "number": 7,
+      "distance": 12.933000000000902
+    },
+    {
+      "number": 51,
+      "distance": 20.774999999999636
+    },
+    {
+      "number": 94,
+      "distance": 32.772000000000844
+    },
+    {
+      "number": 93,
+      "distance": 45.03200000000106
+    },
+    {
+      "number": 2,
+      "distance": 50.91200000000026
+    },
+    {
+      "number": 75,
+      "distance": 62.42100000000028
+    },
+    {
+      "number": 709,
+      "distance": 71.91600000000108
+    },
+    {
+      "number": 5,
+      "distance": 76.10400000000118
+    },
+    {
+      "number": 3,
+      "distance": 153.9369999999999
+    },
+    {
+      "number": 708,
+      "distance": 381.2029999999995
+    },
+    {
+      "number": 4,
+      "distance": 1395.228000000001
+    },
+    {
+      "number": 311,
+      "distance": 6303.279
+    }
+  ]
+}

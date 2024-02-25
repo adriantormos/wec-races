@@ -1,0 +1,70 @@
+{
+  "eventInfo": {
+    "name": "2023 6 Hours of Spa",
+    "year": 2023,
+    "currentLap": 148,
+    "totalLaps": 148,
+    "elapsedTime": 21620
+  },
+  "plotInfo": {
+    "amountOfLines": 5,
+    "secondsPerLine": 128,
+    "secondsPerLineIsLaps": true,
+    "linesPerLap": 1
+  },
+  "description": "After another round of pit-stops, [b]the #50 Ferrari spun on cold tyres[/b] right as it exited the pit lane [b]and had to retire[/b]. Another Safety Car later, the two Toyotas ran very closely. [b]The #7 Toyota made its last stop first, and crucially overtook the sister Toyota for the lead[/b] while it was still on cold tyres. Even with a time penalty, [b]it was able to manage the gap and win the race[/b].\nBehind, the #51 Ferrari and #2 Cadillac needed an extra pit stop compared to the #5 Porsche. On the last stint, [b]the Ferrari managed to close a 45s gap and passed the Porsche for 3rd place[/b] on the last lap. Meanwhile the Cadillac drifted off in 5th place. 2 laps off, the #93 Peugeot had issues but managed to hold off the #708 Glickenhaus at the end.",
+  "classification": [
+    {
+      "number": 7,
+      "distance": 0.0
+    },
+    {
+      "number": 8,
+      "distance": 16.637000000002445
+    },
+    {
+      "number": 51,
+      "distance": 74.43900000000212
+    },
+    {
+      "number": 5,
+      "distance": 77.26400000000285
+    },
+    {
+      "number": 2,
+      "distance": 156.46600000000035
+    },
+    {
+      "number": 38,
+      "distance": 221.01499999999942
+    },
+    {
+      "number": 93,
+      "distance": 321.4310000000005
+    },
+    {
+      "number": 708,
+      "distance": 324.3349999999991
+    },
+    {
+      "number": 94,
+      "distance": 377.42399999999907
+    },
+    {
+      "number": 50,
+      "distance": "DNF"
+    },
+    {
+      "number": 4,
+      "distance": "DNF"
+    },
+    {
+      "number": 6,
+      "distance": "DNF"
+    },
+    {
+      "number": 3,
+      "distance": "DNF"
+    }
+  ]
+}

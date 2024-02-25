@@ -1,0 +1,82 @@
+{
+  "eventInfo": {
+    "name": "Centenary 24h of Le Mans",
+    "year": 2023,
+    "currentLap": 155,
+    "totalLaps": 342,
+    "elapsedTime": 43307
+  },
+  "plotInfo": {
+    "amountOfLines": 5,
+    "secondsPerLine": 420,
+    "secondsPerLineIsLaps": true,
+    "linesPerLap": 0.5
+  },
+  "description": "Around the 8 hour mark, [b]the leading #51 Ferrari span at the first Mulsanne chicane[/b] after reacting to a collision between a GTE car and the #708 Glickenhaus, [b]narrowly avoiding being lapped[/b].\nBarely 2 minutes later, [b]the #7 Toyota retired after being hit by multiple cars[/b] when slowing down too early at a Slow Zone, due to another slowing car. This caused [b]another hour-long Safety Car[/b], resetting the race again.\n[b]A very close 5-way battle for the lead[/b] took place during the next hours. However, [b]mechanical problems for the #50 Ferrari and an accident at the first chicane for the #94 Peugeot[/b] meant that [b]only 3 cars remained in the lead lap[/b] halfway through the race.\nThe #5 Porsche, #38 Jota and #4 Vanwall lost more ground due to various problems too.",
+  "classification": [
+    {
+      "number": 51,
+      "distance": 0.0
+    },
+    {
+      "number": 8,
+      "distance": 3.7010000000009313
+    },
+    {
+      "number": 2,
+      "distance": 60.42199999999866
+    },
+    {
+      "number": 6,
+      "distance": 217.80099999999948
+    },
+    {
+      "number": 3,
+      "distance": 254.35199999999895
+    },
+    {
+      "number": 93,
+      "distance": 463.15899999999965
+    },
+    {
+      "number": 708,
+      "distance": 722.3770000000004
+    },
+    {
+      "number": 709,
+      "distance": 788.2220000000016
+    },
+    {
+      "number": 5,
+      "distance": 1184.1789999999964
+    },
+    {
+      "number": 50,
+      "distance": 1311.940999999999
+    },
+    {
+      "number": 94,
+      "distance": 1831.262999999999
+    },
+    {
+      "number": 38,
+      "distance": 3234.985999999997
+    },
+    {
+      "number": 311,
+      "distance": 3944.667999999998
+    },
+    {
+      "number": 4,
+      "distance": 8795.132999999994
+    },
+    {
+      "number": 7,
+      "distance": "DNF"
+    },
+    {
+      "number": 75,
+      "distance": "DNF"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "eventInfo": {
+    "name": "2023 6 Hours of Monza",
+    "year": 2023,
+    "currentLap": 200,
+    "totalLaps": 200,
+    "elapsedTime": 21648
+  },
+  "plotInfo": {
+    "amountOfLines": 4,
+    "secondsPerLine": 100,
+    "secondsPerLineIsLaps": true,
+    "linesPerLap": 1
+  },
+  "description": "With just an hour to go, [b]the #50 Ferrari had fresher tyres and was closing the gap with the leading #8 Toyota[/b], which was in need of new tyres at the last pit stop. [b]Ferrari, though, decided not to gamble[/b] and also changed to new tyres, losing the chance to snatch the lead in the pits. Ultimately, [b]the #50 Ferrari didn’t have the pace to contest the lead on track[/b]. [b]Completed by a #93 Peugeot in no man’s land, the podium was now set in stone[/b].\nWith minutes to go, the #8 Toyota was able to get to 4th, ahead of the #51 Ferrari and the #5 Porsche. However, [b]penalties for the Ferrari and Toyota brought them down again[/b]. Behind them, the #6 Porsche and the #708 Glickenhaus finished 7th and 8th. Two laps down were the #38 Jota and #2 Cadillac.",
+  "classification": [
+    {
+      "number": 7,
+      "distance": 0.0
+    },
+    {
+      "number": 50,
+      "distance": 16.520000000000437
+    },
+    {
+      "number": 93,
+      "distance": 78.17900000000009
+    },
+    {
+      "number": 8,
+      "distance": 118.29799999999886
+    },
+    {
+      "number": 51,
+      "distance": 124.97599999999875
+    },
+    {
+      "number": 5,
+      "distance": 132.0030000000006
+    },
+    {
+      "number": 6,
+      "distance": 182.26800000000003
+    },
+    {
+      "number": 708,
+      "distance": 190.32800000000134
+    },
+    {
+      "number": 38,
+      "distance": 233.42599999999948
+    },
+    {
+      "number": 2,
+      "distance": 247.40999999999985
+    },
+    {
+      "number": 94,
+      "distance": 889.8950000000004
+    },
+    {
+      "number": 4,
+      "distance": 890.030999999999
+    },
+    {
+      "number": 99,
+      "distance": "DNF"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "eventInfo": {
+    "name": "2023 6 Hours of Spa",
+    "year": 2023,
+    "currentLap": 74,
+    "totalLaps": 148,
+    "elapsedTime": 10872
+  },
+  "plotInfo": {
+    "amountOfLines": 4,
+    "secondsPerLine": 128,
+    "secondsPerLineIsLaps": true,
+    "linesPerLap": 1
+  },
+  "description": "After the first round of pit-stops, [b]the #7 Toyota led the #3 Cadillac and the #6 Porsche[/b]. Fourth ran the sister Toyota, who had started at the back of the field.\n100 minutes into the race, though, [b]the #3 had a big accident in Eau Rouge[/b]. And less than half an hour later, [b]the #6 stopped on track due to an electrical issue and had to retire[/b].\nTwo Safety Car periods later, [b]the two Ferraris were gaining positions[/b] despite their tyre issues, thanks to their higher pace. Now they were chasing the #2 Cadillac, first of the cars with an extra stop. The #94 Peugeot and the #4 Vanwall lost more ground because of a sudden loss of power in the pits and a spin on cold tyres, respectively.\n",
+  "classification": [
+    {
+      "number": 7,
+      "distance": 0.0
+    },
+    {
+      "number": 8,
+      "distance": 56.347999999999956
+    },
+    {
+      "number": 5,
+      "distance": 102.94800000000032
+    },
+    {
+      "number": 2,
+      "distance": 156.4409999999989
+    },
+    {
+      "number": 50,
+      "distance": 172.5649999999987
+    },
+    {
+      "number": 51,
+      "distance": 196.7639999999992
+    },
+    {
+      "number": 93,
+      "distance": 211.5640000000003
+    },
+    {
+      "number": 38,
+      "distance": 224.41200000000026
+    },
+    {
+      "number": 708,
+      "distance": 235.5139999999992
+    },
+    {
+      "number": 94,
+      "distance": 343.96999999999935
+    },
+    {
+      "number": 4,
+      "distance": 498.66699999999946
+    },
+    {
+      "number": 6,
+      "distance": "DNF"
+    },
+    {
+      "number": 3,
+      "distance": "DNF"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "eventInfo": {
+    "name": "Centenary 24h of Le Mans",
+    "year": 2023,
+    "currentLap": 69,
+    "totalLaps": 342,
+    "elapsedTime": 20373
+  },
+  "plotInfo": {
+    "amountOfLines": 5,
+    "secondsPerLine": 105,
+    "secondsPerLineIsLaps": true,
+    "linesPerLap": 2
+  },
+  "description": "Right before the 3 hour mark, [b]heavy rain started pouring[/b] at the Mulsanne area, causing carnage through the field and [b]causing a Safety Car that lasted 85 minutes[/b] due to barrier reparations.\nAlive in the wet, [b]the #94 Peugeot led after resuming but was quickly passed[/b] in now dry conditions. [b]Bad timing for the Toyotas had lost them time in the pits[/b]. [b]Penalties for the #3 Cadillac and the #5 Porsche, and a slow puncture for the #6 Porsche[/b] also lost them ground with the leaders.\nBefore the 5 hour mark, in a colder and damper track, [b]an out-of-sync #38 Jota crashed at the end of the lap while leading[/b], sustaining heavy damage in the back.\n5 hours and a half passed, all cars in the lead lap were more or less in sync again.",
+  "classification": [
+    {
+      "number": 51,
+      "distance": 0.0
+    },
+    {
+      "number": 50,
+      "distance": 3.3979999999974098
+    },
+    {
+      "number": 94,
+      "distance": 22.733000000000175
+    },
+    {
+      "number": 2,
+      "distance": 43.10499999999956
+    },
+    {
+      "number": 8,
+      "distance": 72.23400000000038
+    },
+    {
+      "number": 7,
+      "distance": 75.7039999999979
+    },
+    {
+      "number": 75,
+      "distance": 76.89199999999983
+    },
+    {
+      "number": 709,
+      "distance": 127.4439999999995
+    },
+    {
+      "number": 3,
+      "distance": 194.2520000000004
+    },
+    {
+      "number": 5,
+      "distance": 287.0849999999991
+    },
+    {
+      "number": 6,
+      "distance": 410.9490000000005
+    },
+    {
+      "number": 93,
+      "distance": 517.2799999999988
+    },
+    {
+      "number": 708,
+      "distance": 681.1179999999986
+    },
+    {
+      "number": 38,
+      "distance": 887.6869999999981
+    },
+    {
+      "number": 4,
+      "distance": 1485.8529999999992
+    },
+    {
+      "number": 311,
+      "distance": 4325.061999999998
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "eventInfo": {
+    "name": "Centenary 24h of Le Mans",
+    "year": 2023,
+    "currentLap": 8,
+    "totalLaps": 342,
+    "elapsedTime": 2836
+  },
+  "plotInfo": {
+    "amountOfLines": 5,
+    "secondsPerLine": 3,
+    "secondsPerLineIsLaps": false,
+    "linesPerLap": 2
+  },
+  "description": "The Centenary race started with a drying track. In a chaotic first lap, [b]the #311 Cadillac spun on the first Mulsanne chicane[/b] and [b]the #8 Toyota stole the lead from the Ferraris[/b]. The Cadillac was forced to pit and would lose more than an hour fixing the severe damage it had picked.\nAfter a Safety Car period due to barrier reparations, [b]a 13-hypercar peloton battled for the lead[/b] while [b]the #4 Vanwall struggled to keep up[/b]. One lap behind was the #708 Glickenhaus, who started from the pits because of gearbox issues before the race.",
+  "classification": [
+    {
+      "number": 8,
+      "distance": 0.0
+    },
+    {
+      "number": 7,
+      "distance": 1.606999999999971
+    },
+    {
+      "number": 50,
+      "distance": 2.255999999999858
+    },
+    {
+      "number": 51,
+      "distance": 2.624000000000251
+    },
+    {
+      "number": 75,
+      "distance": 3.519000000000233
+    },
+    {
+      "number": 2,
+      "distance": 4.0460000000002765
+    },
+    {
+      "number": 6,
+      "distance": 4.64200000000028
+    },
+    {
+      "number": 5,
+      "distance": 5.262000000000171
+    },
+    {
+      "number": 93,
+      "distance": 6.217999999999847
+    },
+    {
+      "number": 3,
+      "distance": 6.75
+    },
+    {
+      "number": 94,
+      "distance": 7.485000000000127
+    },
+    {
+      "number": 709,
+      "distance": 8.628000000000156
+    },
+    {
+      "number": 38,
+      "distance": 9.184999999999945
+    },
+    {
+      "number": 4,
+      "distance": 18.13700000000017
+    },
+    {
+      "number": 708,
+      "distance": 221.58399999999983
+    },
+    {
+      "number": 311,
+      "distance": 4023.835
+    }
+  ]
+}

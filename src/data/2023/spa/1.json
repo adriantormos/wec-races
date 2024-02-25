@@ -1,0 +1,70 @@
+{
+  "eventInfo": {
+    "name": "2023 6 Hours of Spa",
+    "year": 2023,
+    "currentLap": 25,
+    "totalLaps": 148,
+    "elapsedTime": 3791
+  },
+  "plotInfo": {
+    "amountOfLines": 5,
+    "secondsPerLine": 64,
+    "secondsPerLineIsLaps": true,
+    "linesPerLap": 2
+  },
+  "description": "The race started in [b]mixed conditions[/b], as the track was quickly drying.\n[b]The two Ferraris, the two Peugeots, the #2 Cadillac and the #38 Jota started on wet tyres[/b] and thrived at the start, pulling a small gap to the rest. After less than half an hour, though, [b]the track had dried enough that their gap had disappeared and their wet tyres were destroyed[/b], forcing a tyre change.\nOne hour into the race, [b]these 6 cars were a lap behind the leaders, out of sync strategy-wise[/b], with new slick tyres. The two Ferraris had especially struggled with warming their new tyres, and were in last place.",
+  "classification": [
+    {
+      "number": 7,
+      "distance": 0.0
+    },
+    {
+      "number": 6,
+      "distance": 15.067000000000007
+    },
+    {
+      "number": 3,
+      "distance": 21.209000000000287
+    },
+    {
+      "number": 8,
+      "distance": 43.13000000000011
+    },
+    {
+      "number": 5,
+      "distance": 45.509000000000015
+    },
+    {
+      "number": 708,
+      "distance": 62.10100000000011
+    },
+    {
+      "number": 4,
+      "distance": 72.654
+    },
+    {
+      "number": 94,
+      "distance": 128.32999999999993
+    },
+    {
+      "number": 2,
+      "distance": 137.96500000000015
+    },
+    {
+      "number": 93,
+      "distance": 155.98800000000028
+    },
+    {
+      "number": 38,
+      "distance": 169.26600000000008
+    },
+    {
+      "number": 50,
+      "distance": 174.88099999999986
+    },
+    {
+      "number": 51,
+      "distance": 176.29800000000023
+    }
+  ]
+}

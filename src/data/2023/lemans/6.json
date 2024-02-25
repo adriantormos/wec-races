@@ -1,0 +1,82 @@
+{
+  "eventInfo": {
+    "name": "Centenary 24h of Le Mans",
+    "year": 2023,
+    "currentLap": 225,
+    "totalLaps": 342,
+    "elapsedTime": 59549
+  },
+  "plotInfo": {
+    "amountOfLines": 5,
+    "secondsPerLine": 420,
+    "secondsPerLineIsLaps": true,
+    "linesPerLap": 0.5
+  },
+  "description": "As the race finally settled down, [b]the #8 Toyota and the #51 Ferrari battled within seconds for the lead[/b], while [b]the #2 Cadillac slowly drifted off[/b] as the hours passed.\nDuring the 16th hour, [b]the #8 Toyota hit a squirrel on track that caused front damage and a gradual loss of pace[/b]. Victory was escaping Toyota’s hands.\nAround the 16 hour mark, almost 2 laps down in fourth place, [b]the #3 Cadillac was being chased closely by the #6 Porsche[/b]. The Porsche was losing ground and pushing to the limit to keep the pace. After a few near misses, [b]the #6 Porsche finally went off in Arnage after trying to divebomb an LMP2 car[/b], hitting the barriers and losing 11 more laps.",
+  "classification": [
+    {
+      "number": 51,
+      "distance": 0.0
+    },
+    {
+      "number": 8,
+      "distance": 20.012000000002445
+    },
+    {
+      "number": 2,
+      "distance": 159.98500000000058
+    },
+    {
+      "number": 3,
+      "distance": 328.29700000000594
+    },
+    {
+      "number": 93,
+      "distance": 592.1330000000016
+    },
+    {
+      "number": 708,
+      "distance": 868.1180000000022
+    },
+    {
+      "number": 709,
+      "distance": 1098.6970000000001
+    },
+    {
+      "number": 5,
+      "distance": 1261.8610000000044
+    },
+    {
+      "number": 50,
+      "distance": 1402.2410000000018
+    },
+    {
+      "number": 94,
+      "distance": 1919.695000000007
+    },
+    {
+      "number": 6,
+      "distance": 3268.7270000000062
+    },
+    {
+      "number": 38,
+      "distance": 3564.0810000000056
+    },
+    {
+      "number": 311,
+      "distance": 4184.483
+    },
+    {
+      "number": 4,
+      "distance": "DNF"
+    },
+    {
+      "number": 7,
+      "distance": "DNF"
+    },
+    {
+      "number": 75,
+      "distance": "DNF"
+    }
+  ]
+}

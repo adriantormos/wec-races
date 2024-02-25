@@ -1,0 +1,82 @@
+{
+  "eventInfo": {
+    "name": "Centenary 24h of Le Mans",
+    "year": 2023,
+    "currentLap": 342,
+    "totalLaps": 342,
+    "elapsedTime": 86418
+  },
+  "plotInfo": {
+    "amountOfLines": 7,
+    "secondsPerLine": 420,
+    "secondsPerLineIsLaps": true,
+    "linesPerLap": 0.5
+  },
+  "description": "The morning saw [b]the #8 Toyota losing up to a minute to the #51 Ferrari in the lead, before it lost all of it in the pits[/b], having to perform a full power cycle as the car would not restart. With the #8 Toyota seemingly on pace again, they tensely battled for almost 4 more hours before [b]the #8 Toyota crashed at Indianapolis[/b]. Although the Ferrari would have some more minor problems, [b]Toyota had lost too much ground to battle anymore[/b].\n[b]The Cadillacs comfortably finished 3rd and 4th[/b], while [b]the #50 Ferrari managed to finish 5th[/b]. [b]The Glickenhaus cars dropped to 6th and 7th place[/b] because of crashes at the Indianapolis corner, and [b]the #93 Peugeot and #5 Porsche had mechanical problems[/b] that left them 8th and 9th.",
+  "classification": [
+    {
+      "number": 51,
+      "distance": 0.0
+    },
+    {
+      "number": 8,
+      "distance": 81.79300000000512
+    },
+    {
+      "number": 2,
+      "distance": 364.5789999999979
+    },
+    {
+      "number": 3,
+      "distance": 585.1619999999966
+    },
+    {
+      "number": 50,
+      "distance": 1244.6300000000047
+    },
+    {
+      "number": 708,
+      "distance": 1853.8669999999984
+    },
+    {
+      "number": 709,
+      "distance": 2187.9679999999935
+    },
+    {
+      "number": 93,
+      "distance": 2788.047000000006
+    },
+    {
+      "number": 5,
+      "distance": 5144.117000000013
+    },
+    {
+      "number": 311,
+      "distance": 4286.154999999999
+    },
+    {
+      "number": 6,
+      "distance": 5023.702999999994
+    },
+    {
+      "number": 94,
+      "distance": 6750.464000000007
+    },
+    {
+      "number": 38,
+      "distance": 22424.269
+    },
+    {
+      "number": 4,
+      "distance": "DNF"
+    },
+    {
+      "number": 7,
+      "distance": "DNF"
+    },
+    {
+      "number": 75,
+      "distance": "DNF"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "eventInfo": {
+    "name": "2023 6 Hours of Monza",
+    "year": 2023,
+    "currentLap": 28,
+    "totalLaps": 200,
+    "elapsedTime": 3381
+  },
+  "plotInfo": {
+    "amountOfLines": 5,
+    "secondsPerLine": 12,
+    "secondsPerLineIsLaps": false
+  },
+  "description": "At the start of the race, [b]the #7 Toyota and #50 Ferrari managed to keep their top 2 positions[/b]. Having a poor start, [b]the #8 Toyota hit and spun the #51 Ferrari at the first chicane[/b], for which it was given a 10 second penalty.\nThe entire pack was close, all in around 15 seconds, until they started lapping the GTE AM field. 15 minutes into the race, [b]the #8 Toyota hit a GTE AM car, ending its race and/ngetting a stop and go penalty[/b]. [b]The Safety Car was brought out and 5 cars[/b] (#2 Cadillac, #6 Porsche, #38 Jota, #51 Ferrari and #99 Proton) [b]opted to box[/b]. [b]They lost position, but could save a stop at the end[/b]. They were out of sync but, in theory, leading the race by almost an entire pit-stop. All the while, the #4 Vanwall drifted off, having very poor pace.",
+  "classification": [
+    {
+      "number": 93,
+      "distance": 0.0
+    },
+    {
+      "number": 50,
+      "distance": 4.121999999999844
+    },
+    {
+      "number": 7,
+      "distance": 4.77599999999984
+    },
+    {
+      "number": 94,
+      "distance": 5.947999999999865
+    },
+    {
+      "number": 5,
+      "distance": 7.358999999999924
+    },
+    {
+      "number": 708,
+      "distance": 11.831000000000131
+    },
+    {
+      "number": 38,
+      "distance": 20.326000000000022
+    },
+    {
+      "number": 6,
+      "distance": 21.985999999999876
+    },
+    {
+      "number": 2,
+      "distance": 24.617999999999938
+    },
+    {
+      "number": 51,
+      "distance": 25.454999999999927
+    },
+    {
+      "number": 99,
+      "distance": 38.126000000000204
+    },
+    {
+      "number": 4,
+      "distance": 40.047000000000025
+    },
+    {
+      "number": 8,
+      "distance": 99.07400000000007
+    }
+  ]
+}

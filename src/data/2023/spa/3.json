@@ -1,0 +1,70 @@
+{
+  "eventInfo": {
+    "name": "2023 6 Hours of Spa",
+    "year": 2023,
+    "currentLap": 100,
+    "totalLaps": 148,
+    "elapsedTime": 14810
+  },
+  "plotInfo": {
+    "amountOfLines": 5,
+    "secondsPerLine": 128,
+    "secondsPerLineIsLaps": true,
+    "linesPerLap": 1
+  },
+  "description": "At the 3:30h mark, [b]the #4 Vanwall crashed after being punted by a GTE AM car[/b] right before Blanchimont.\nThe following Safety Carbunched all cars together by lap. [b]The #8 Toyota was able to get back more than a minute[/b] to the leading sister car. On the other hand, [b]the timing was unlucky for the #38 Jota, who was forced to make an extra splash and dash, and the #93 Peugeot, who had just pitted. Both lost another lap[/b].\nAt the 4h mark, on green flag conditions, [b]the #8 Toyota had lost some ground again[/b] and [b]the 4 cars one lap behind were on the verge of unlapping themselves[/b].",
+  "classification": [
+    {
+      "number": 7,
+      "distance": 0.0
+    },
+    {
+      "number": 8,
+      "distance": 20.67399999999907
+    },
+    {
+      "number": 50,
+      "distance": 121.628999999999
+    },
+    {
+      "number": 51,
+      "distance": 129.4380000000001
+    },
+    {
+      "number": 2,
+      "distance": 129.8089999999993
+    },
+    {
+      "number": 5,
+      "distance": 130.27700000000004
+    },
+    {
+      "number": 38,
+      "distance": 263.3339999999989
+    },
+    {
+      "number": 93,
+      "distance": 268.3959999999988
+    },
+    {
+      "number": 708,
+      "distance": 281.991
+    },
+    {
+      "number": 94,
+      "distance": 393.28999999999905
+    },
+    {
+      "number": 4,
+      "distance": "DNF"
+    },
+    {
+      "number": 6,
+      "distance": "DNF"
+    },
+    {
+      "number": 3,
+      "distance": "DNF"
+    }
+  ]
+}

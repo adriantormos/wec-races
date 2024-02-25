@@ -1,0 +1,70 @@
+{
+  "eventInfo": {
+    "name": "2023 6 Hours of Monza",
+    "year": 2023,
+    "currentLap": 78,
+    "totalLaps": 200,
+    "elapsedTime": 8773
+  },
+  "plotInfo": {
+    "amountOfLines": 4,
+    "secondsPerLine": 50,
+    "secondsPerLineIsLaps": true,
+    "linesPerLap": 2
+  },
+  "description": "On the first round of pit stops, [b]a driver error made the #93 Peugeot lose the lead of its peloton[/b]. [b]Several gearbox issues for the #94 Peugeot[/b] also meant it needed to pit for repairs, losing multiple laps. Having served all its penalties, [b]the #8 Toyota was now a lap down[/b]. [b]Minutes later, the #2 Cadillac also had trouble in a stop[/b], needing to reset and losing ground with the lead group.\n [b]Around 2 hours in, the #6 Porsche and #7 Toyota led their respective groups[/b] (the former just having snatched the lead from the #38 Jota) right when [b]an LMP2 car had a big crash in Lesmo II, bringing out the Safety Car again[/b]. [b]This was horrible timing for the out-of-sync cars[/b], who had to pit for a splash and dash and [b]lost an entire lap with the rest of the cars[/b].",
+  "classification": [
+    {
+      "number": 7,
+      "distance": 0.0
+    },
+    {
+      "number": 50,
+      "distance": 3.986000000000786
+    },
+    {
+      "number": 93,
+      "distance": 15.149000000001251
+    },
+    {
+      "number": 5,
+      "distance": 18.39100000000144
+    },
+    {
+      "number": 708,
+      "distance": 31.57800000000134
+    },
+    {
+      "number": 99,
+      "distance": 40.73099999999977
+    },
+    {
+      "number": 51,
+      "distance": 89.08100000000013
+    },
+    {
+      "number": 6,
+      "distance": 100.72299999999996
+    },
+    {
+      "number": 8,
+      "distance": 104.67400000000089
+    },
+    {
+      "number": 38,
+      "distance": 137.02900000000045
+    },
+    {
+      "number": 2,
+      "distance": 139.51800000000003
+    },
+    {
+      "number": 4,
+      "distance": 224.987000000001
+    },
+    {
+      "number": 94,
+      "distance": 831.0600000000013
+    }
+  ]
+}

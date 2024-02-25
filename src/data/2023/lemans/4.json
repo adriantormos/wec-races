@@ -1,0 +1,82 @@
+{
+  "eventInfo": {
+    "name": "Centenary 24h of Le Mans",
+    "year": 2023,
+    "currentLap": 98,
+    "totalLaps": 342,
+    "elapsedTime": 27463
+  },
+  "plotInfo": {
+    "amountOfLines": 6,
+    "secondsPerLine": 210,
+    "secondsPerLineIsLaps": true,
+    "linesPerLap": 1
+  },
+  "description": "6 hours had passed when [b]chaos ensued again at the track, as it resumed raining heavily[/b]. [b]Several cars went off the track[/b], the #50 Ferrari and the #2 Cadillac having the biggest scares, and everyone pitted for wet tyres.\nJust before, the #709 Glickenhaus had lost 4 laps to a wrongly fitted tyre.\nIn the rain, [b]the #51 Ferrari managed to keep the car on the track and increased its lead to around a minute after the scrambles in the pits[/b]. [b]The #94 Peugeot comfortably took second place[/b], having no incidents and taking advantage of its 4-wheel drive.\nJust minutes later, [b]the #75 Porsche had to retire due to fuel pressure issues[/b].\nThe race remained stable until hour 8, with [b]6 cars on the lead lap[/b].",
+  "classification": [
+    {
+      "number": 51,
+      "distance": 0.0
+    },
+    {
+      "number": 94,
+      "distance": 44.23500000000058
+    },
+    {
+      "number": 7,
+      "distance": 69.8090000000011
+    },
+    {
+      "number": 50,
+      "distance": 88.43700000000172
+    },
+    {
+      "number": 2,
+      "distance": 98.93600000000151
+    },
+    {
+      "number": 8,
+      "distance": 173.40000000000146
+    },
+    {
+      "number": 3,
+      "distance": 289.7540000000008
+    },
+    {
+      "number": 5,
+      "distance": 308.8159999999989
+    },
+    {
+      "number": 6,
+      "distance": 416.14500000000044
+    },
+    {
+      "number": 93,
+      "distance": 619.0630000000019
+    },
+    {
+      "number": 708,
+      "distance": 900.7839999999997
+    },
+    {
+      "number": 709,
+      "distance": 909.1980000000003
+    },
+    {
+      "number": 38,
+      "distance": 990.5119999999988
+    },
+    {
+      "number": 4,
+      "distance": 3146.7999999999993
+    },
+    {
+      "number": 311,
+      "distance": 6225.018000000004
+    },
+    {
+      "number": 75,
+      "distance": "DNF"
+    }
+  ]
+}

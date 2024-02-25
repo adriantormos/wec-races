@@ -1,0 +1,70 @@
+{
+  "eventInfo": {
+    "name": "2023 6 Hours of Monza",
+    "year": 2023,
+    "currentLap": 146,
+    "totalLaps": 200,
+    "elapsedTime": 16207
+  },
+  "plotInfo": {
+    "amountOfLines": 6,
+    "secondsPerLine": 50,
+    "secondsPerLineIsLaps": true,
+    "linesPerLap": 2
+  },
+  "description": "After the Safety Car ended, the race mainly stabilized. Over the next two hours, the [b]leading #7 Toyota was able to pull a 45 second gap to the #50 Ferrari and #93 Peugeot[/b], in second and third. Penalties for the #38 Jota and the #2 Cadillac put them 2 laps behind the leader. And still 9th, [b]the #8 Toyota was timing its strategy to barely hang in the lead lap[/b] as much time as possible, in case of another Safety Car.\nA bit over 4 hours in, a Safety Car would indeed arrive, as [b]the #99 Proton lost power and came to a stop on track[/b]. However, the timing was just not right and [b]the #8 Toyota needed to splash and dash[/b]. Because of the different pit stop cycles, most cars had just stopped and were caught a lap down, meaning [b]only the top 3 remained in the lead lap now[/b].",
+  "classification": [
+    {
+      "number": 7,
+      "distance": 0.0
+    },
+    {
+      "number": 50,
+      "distance": 5.329999999999927
+    },
+    {
+      "number": 93,
+      "distance": 16.377000000000407
+    },
+    {
+      "number": 708,
+      "distance": 103.98500000000058
+    },
+    {
+      "number": 51,
+      "distance": 104.42799999999988
+    },
+    {
+      "number": 5,
+      "distance": 111.77399999999943
+    },
+    {
+      "number": 6,
+      "distance": 116.16799999999967
+    },
+    {
+      "number": 8,
+      "distance": 171.10199999999895
+    },
+    {
+      "number": 38,
+      "distance": 204.27500000000146
+    },
+    {
+      "number": 2,
+      "distance": 206.88000000000102
+    },
+    {
+      "number": 4,
+      "distance": 721.6270000000004
+    },
+    {
+      "number": 94,
+      "distance": 879.6039999999994
+    },
+    {
+      "number": 99,
+      "distance": "DNF"
+    }
+  ]
+}
