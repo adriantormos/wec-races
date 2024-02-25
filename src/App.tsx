@@ -3,6 +3,8 @@ import './App.css';
 import {RaceSummary} from "./raceSummary";
 import {BrowserRouter, Route, Routes} from "react-router-dom";
 import {AllDataJSONs} from "./importAllJSONs";
+import {Header} from "./header";
+import {Sidebar} from "./sidebar";
 
 
 function App() {
@@ -28,6 +30,14 @@ function App() {
   return (
       <BrowserRouter>
         <Routes>
+            <Route path={'wec-races'} element={(
+                <div className="global">
+                    <Header title={"adriantormos/wec-races"} />
+                    <div className={'body-container'}>
+                        <Sidebar />
+                    </div>
+                </div>
+            )} />
             {produceAllRoutes()}
         </Routes>
       </BrowserRouter>
