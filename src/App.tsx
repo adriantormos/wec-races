@@ -18,7 +18,7 @@ function App() {
                 for (const id in AllDataJSONs[year][race]) {
                     if (id === 'Q')
                         allRoutes.push(
-                            <Route path={`/wec-races/${year}/${race}/Q`}
+                            <Route path={`/${year}/${race}/Q`}
                                    element={<PageView pageContent={<QualyPageView {...AllDataJSONs[parseInt(year)][race][id] as QualyFromJSON}
                                                                                   URLPathInfo={{
                                                                                       year: parseInt(year),
@@ -31,7 +31,7 @@ function App() {
                                    />} />} />);
                     else
                         allRoutes.push(
-                            <Route path={`/wec-races/${year}/${race}/${id}`}
+                            <Route path={`/${year}/${race}/${id}`}
                                    element={<PageView pageContent={<RacePageView {...AllDataJSONs[parseInt(year)][race][parseInt(id)] as RaceFromJSON}
                                                                                  URLPathInfo={{
                                                                                     year: parseInt(year),
@@ -50,7 +50,7 @@ function App() {
   return (
       <HashRouter>
         <Routes>
-            <Route path={'/wec-races'}
+            <Route path={'/'}
                    element={<PageView pageContent={<div />} />} />
             {produceAllRoutes()}
         </Routes>

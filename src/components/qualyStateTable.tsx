@@ -48,7 +48,7 @@ export class QualyStateTable extends React.Component<QualyEventInfo & URLPathInf
                     </div>
                     <div style={{width: "45%", textAlign: "left"}}>
                         {this.props.canLinkRight &&
-                            <Link to={`/wec-races/${this.props.year}/${this.props.race}/${1}`}>
+                            <Link to={`/${this.props.year}/${this.props.race}/${1}`}>
                                 Next
                             </Link>}
                     </div>

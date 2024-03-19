@@ -27,7 +27,7 @@ export function Sidebar() {
                                     return (
                                         <TreeItem nodeId={`year${year}-race${race}`}
                                                   label={year === '2023' ? `${race_data['Q'].eventInfo.name}` : `R${race_num + 1} - ${race_data['Q'].eventInfo.name}`}
-                                                  onClick={() => navigate(`/wec-races/${year}/${race}/Q`)}/>
+                                                  onClick={() => navigate(`/${year}/${race}/Q`)}/>
                                     )
                                 })}
                         </TreeItem>
