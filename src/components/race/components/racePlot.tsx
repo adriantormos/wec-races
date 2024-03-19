@@ -1,11 +1,11 @@
 import {Image, Layer, Line, Stage, Text, Label, Tag,} from "react-konva";
 import React from "react";
-import "../raceSummary.css";
+import "../../../raceSummary.css";
 import useImage from "use-image";
 
 
-import {findLastOfIndex, range} from "../utils";
-import {BasicPlotProps, RacePlotProps} from "../types";
+import {findLastOfIndex, range} from "../../../utils";
+import {BasicPlotProps, RacePlotProps} from "../../../types";
 
 export function RacePlotBackgroundLine(props: {from: [number, number], to: [number, number]}) {
     return (
@@ -45,14 +45,15 @@ export class RacePlot extends React.Component<RacePlotProps, { tooltipStates: {t
         this.carImages = {};
         this.preLoadAllCarSprites();
 
+        // Hacking n=50 because apparently only one RacePlot is created even for more than one route
         this.state = {
-            tooltipStates: props.race.classification
+            tooltipStates: range(50)
                 .map(() => ({text: "", position: [0, 0]}))
         }
     }
 
     preLoadAllCarSprites() {
-        const images = require.context('../imgs/', true);
+        const images = require.context('../../../imgs/', true);
         // const images = require.context('../imgs/2023', true);
 
         for (const key of images.keys()) {
@@ -77,7 +78,7 @@ export class RacePlot extends React.Component<RacePlotProps, { tooltipStates: {t
     getCarHeights() {
         let pixelsBetweenLines = this.raceCarAreaHeight / (this.props.plot.amountOfLines-1);
         return this.props.race.classification
-            .filter((entry) => entry.distance !== "DNF")
+            .filter((entry) => typeof entry.distance !== 'string')
             .map((entry) => (entry.distance as number) * (pixelsBetweenLines / this.props.plot.secondsPerLine))
     }
 
@@ -112,6 +113,10 @@ export class RacePlot extends React.Component<RacePlotProps, { tooltipStates: {t
         let plotConfig: BasicPlotProps = this.props.plot;
         let lineHeights = this.getLineHeights();
         let carPositions = this.getCarPositions();
+        // this.setState({
+        //     tooltipStates: this.state.tooltipStates
+        //         .map((_) => ({text: "", position: [0, 0]}))
+        // })
 
         return (
             <Stage width={plotConfig.width} height={plotConfig.height} className={'race-plot'}>

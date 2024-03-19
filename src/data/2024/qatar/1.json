@@ -1,0 +1,93 @@
+{
+  "eventInfo": {
+    "name": "2024 Qatar 1812km",
+    "year": 2024,
+    "currentLap": 13,
+    "totalLaps": 335,
+    "elapsedTime": 1356
+  },
+  "plotInfo": {
+    "amountOfLines": 4,
+    "secondsPerLine": 10,
+    "secondsPerLineIsLaps": false
+  },
+  "description": "After a surprising qualifying, with most of last year’s main contenders struggling for one-lap pace, the Qatar 1812km started spectacularly with [b]the #50 Ferrari taking the lead from the Porsches from fourth place[/b]. The #7 Toyota ran wide and lost places, while behind [b]the #2 Cadillac spun the #94 Peugeot at Turn 1[/b], the former taking damage to the front and the rear. The BMWs managed to gain positions, while the #8 Toyota fell down to 14th place. In last place, the #11 Isotta Fraschini had a rough start, losing power on the formation lap but managing to restart in time to at least start after the pack of LMGT3s.\n\nLaps later, the field was stabilizing while negotiating traffic, [b]all the pack running tightly [/b]in a lapse of 30 seconds. [b]The #50 Ferrari, #5 Porsche and #93 Peugeot ran in the podium positions[/b]. [b]The Porsche looked like the stronger car[/b], all of them having competitive pace. [b]The newcomers were running in low positions[/b], the best of them being the BMWs, barely outside point-scoring positions. And in last place, the #11 Isotta was keeping up without drifting off despite its struggles with pace on Saturday, only 5-6 seconds behing the #63 Lamborghini in 18th.\n\nOn lap 9, [b]the #93 Peugeot[/b], in conditions that suited it surprisingly well, [b]overtook the #5 Porsche for second place[/b] using traffic and was now putting pressure on the leading Ferrari.",
+  "classification": [
+    {
+      "number": 50,
+      "distance": 0.0
+    },
+    {
+      "number": 93,
+      "distance": 0.6760000000001583
+    },
+    {
+      "number": 5,
+      "distance": 2.102000000000089
+    },
+    {
+      "number": 12,
+      "distance": 2.900000000000091
+    },
+    {
+      "number": 38,
+      "distance": 4.179000000000087
+    },
+    {
+      "number": 6,
+      "distance": 5.0060000000000855
+    },
+    {
+      "number": 51,
+      "distance": 8.70900000000006
+    },
+    {
+      "number": 7,
+      "distance": 11.366999999999962
+    },
+    {
+      "number": 99,
+      "distance": 11.913000000000011
+    },
+    {
+      "number": 83,
+      "distance": 12.894000000000005
+    },
+    {
+      "number": 20,
+      "distance": 13.691000000000031
+    },
+    {
+      "number": 15,
+      "distance": 15.200000000000045
+    },
+    {
+      "number": 36,
+      "distance": 16.810000000000173
+    },
+    {
+      "number": 8,
+      "distance": 17.32899999999995
+    },
+    {
+      "number": 2,
+      "distance": 18.500999999999976
+    },
+    {
+      "number": 94,
+      "distance": 19.358000000000175
+    },
+    {
+      "number": 35,
+      "distance": 20.447000000000116
+    },
+    {
+      "number": 63,
+      "distance": 21.907000000000153
+    },
+    {
+      "number": 11,
+      "distance": 27.554000000000087
+    }
+  ]
+}

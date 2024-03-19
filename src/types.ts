@@ -1,28 +1,11 @@
-export type RaceSummaryInfo = {
-    eventInfo: RaceEventInfo,
-    plotInfo: PlotInfoFromJSON,
-    description: string,
-    classification: RaceClassification
-}
-export type RaceEventInfo = {
-    name: string,
-    year: number,
-    currentLap: number,
-    totalLaps: number,
-    elapsedTime: number
-}
+/* GENERAL */
+
 type PlotInfoFromJSON = {
     secondsPerLine: number,
     secondsPerLineIsLaps: boolean,
     amountOfLines: number,
     linesPerLap?: number
 }
-type RaceClassification = RaceEntryConfig[];
-type RaceEntryConfig = {
-    number: number,
-    distance: number | string
-}
-
 export type URLPathInfo = {
     year: number,
     race: string,
@@ -32,10 +15,53 @@ export type URLPathInfo = {
     canLinkRight: boolean
 }
 
+/* JSON TYPES */
+
+export type QualyFromJSON = {
+    eventInfo: QualyEventInfo,
+    plotInfo: PlotInfoFromJSON,
+    classification: RaceClassification
+}
+export type RaceFromJSON = {
+    eventInfo: RaceEventInfo,
+    plotInfo: PlotInfoFromJSON,
+    description: string,
+    classification: RaceClassification
+}
+
+/* EVENT GENERAL INFORMATION */
+
+export type QualyEventInfo = {
+    name: string,
+    year: number,
+    hasHyperpole: boolean
+}
+export type RaceEventInfo = QualyEventInfo & {
+    currentLap: number,
+    totalLaps: number,
+    elapsedTime: number
+}
+
+/* EVENT CLASSIFICATION TABLES */
+
+export type QualyClassificationProps = {
+    eventInfo: QualyEventInfo,
+    classification: RaceClassification
+}
 export type RaceClassificationProps = {
     eventInfo: RaceEventInfo,
     classification: RaceClassification
 }
+export type RaceClassification = RaceEntryConfig[];
+export type RaceEntryConfig = {
+    number: number,
+    distance: number | "DNF" | "DSQ" | "No time",
+    distanceHyperpole?: number | "No time",
+    time?: string,
+    timeHyperpole?: string,
+}
+
+/* CLASSIFICATION PLOTS */
 
 export type RacePlotProps = {
     plot: BasicPlotProps,
@@ -47,6 +73,6 @@ export type BasicPlotProps = PlotInfoFromJSON & {
     margin: number
 }
 type RaceConfigProps = {
-    eventInfo: RaceEventInfo
+    eventInfo: QualyEventInfo | RaceEventInfo
     classification: RaceClassification
 }

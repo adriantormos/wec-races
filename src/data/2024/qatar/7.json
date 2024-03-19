@@ -1,0 +1,94 @@
+{
+  "eventInfo": {
+    "name": "2024 Qatar 1812km",
+    "year": 2024,
+    "currentLap": 307,
+    "totalLaps": 335,
+    "elapsedTime": 32785
+  },
+  "plotInfo": {
+    "amountOfLines": 5,
+    "secondsPerLine": 103,
+    "secondsPerLineIsLaps": true,
+    "linesPerLap": 1
+  },
+  "description": "With less than two hours to go, [b]the #5 Porsche also slid through the gravel at Turn 9 without consequence[/b], this time without any other car involved. A few laps later, while in contention for points, the #35 Alpine went through the gravel too and momentarily lost one position. At that time, [b]the #6 Porsche made contact with an LMGT3 at Turn 3[/b], pushing it off the track putting themselves at risk in the last stages of the race. However, the stewards did not deem the accident worthy of penalty.\n\nDuring the ninth round of pit-stops, [b]the #15 BMW needed a change of brake discs[/b], losing 5 laps and falling to 17th place, behind the #63 Lamborghini. And following different strategies, [b]the leader #6 Porsche stopped for a splash-and-dash[/b]. The chasing #93 Peugeot had a longer pit-stop, and fell one lap behind. [b]The #6 Porsche had momentarily lapped the entire field now[/b], but it was out-of-sync: as most of the cars would need a quick splash-and-dash to go to the end, the leader still needed a full stop.\n\nWith an hour and just a few minutes to go, five cars made their last stop. With a well timed fuel-saving strategy, [b]the Ferraris, Cadillac, #35 Alpine and #99 Proton stopped just in time to avoid an extra splash-and-dash[/b]. Stopping once less than the rest, they were in a position to recover places at the end. [b]The #6 Porsche made its last pit-stop[/b] too, but in a dramatic turn of events, it had lost its left number panel after the contact at Turn 3.",
+  "classification": [
+    {
+      "number": 6,
+      "distance": 0.0
+    },
+    {
+      "number": 93,
+      "distance": 41.70300000000134
+    },
+    {
+      "number": 12,
+      "distance": 42.25699999999779
+    },
+    {
+      "number": 5,
+      "distance": 75.10700000000361
+    },
+    {
+      "number": 83,
+      "distance": 126.41900000000169
+    },
+    {
+      "number": 38,
+      "distance": 180.69700000000012
+    },
+    {
+      "number": 7,
+      "distance": 181.04499999999825
+    },
+    {
+      "number": 2,
+      "distance": 184.47699999999895
+    },
+    {
+      "number": 8,
+      "distance": 273.9080000000031
+    },
+    {
+      "number": 35,
+      "distance": 278.4519999999975
+    },
+    {
+      "number": 50,
+      "distance": 283.9800000000032
+    },
+    {
+      "number": 20,
+      "distance": 299.40400000000227
+    },
+    {
+      "number": 36,
+      "distance": 302.625
+    },
+    {
+      "number": 99,
+      "distance": 339.83200000000215
+    },
+    {
+      "number": 51,
+      "distance": 350.43299999999726
+    },
+    {
+      "number": 63,
+      "distance": 642.489999999998
+    },
+    {
+      "number": 15,
+      "distance": 881.3349999999991
+    },
+    {
+      "number": 94,
+      "distance": 2104.095000000001
+    },
+    {
+      "number": 11,
+      "distance": "DNF"
+    }
+  ]
+}

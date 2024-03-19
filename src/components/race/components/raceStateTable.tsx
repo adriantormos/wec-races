@@ -1,6 +1,6 @@
 import React from "react";
 import {Link} from "react-router-dom";
-import {RaceEventInfo, URLPathInfo} from "../types";
+import {RaceEventInfo, URLPathInfo} from "../../../types";
 
 
 export class RaceStateTable extends React.Component<RaceEventInfo & URLPathInfo, any>{
@@ -41,8 +41,12 @@ export class RaceStateTable extends React.Component<RaceEventInfo & URLPathInfo,
                 {/* Navigation (Previous/Next) */}
                 <div style={{paddingTop: "30px", paddingLeft: "60px", display: "flex", flexDirection: "row", flexGrow: 1}}>
                     <div style={{width: "45%", textAlign: "right"}}>
-                        {this.props.canLinkLeft &&
-                            <Link to={`/wec-races/${this.props.year}/${this.props.race}/${this.props.summaryNumber-1}`}>
+                        {this.props.canLinkLeft && this.props.summaryNumber === 1 &&
+                            <Link className={"previous-next-link"} to={`/wec-races/${this.props.year}/${this.props.race}/Q`}>
+                                Previous
+                            </Link>}
+                        {this.props.canLinkLeft && this.props.summaryNumber !== 1 &&
+                            <Link className={"previous-next-link"} to={`/wec-races/${this.props.year}/${this.props.race}/${this.props.summaryNumber-1}`}>
                                 Previous
                             </Link>}
                     </div>
@@ -51,7 +55,7 @@ export class RaceStateTable extends React.Component<RaceEventInfo & URLPathInfo,
                     </div>
                     <div style={{width: "45%", textAlign: "left"}}>
                         {this.props.canLinkRight &&
-                            <Link to={`/wec-races/${this.props.year}/${this.props.race}/${this.props.summaryNumber+1}`}>
+                            <Link className={"previous-next-link"} to={`/wec-races/${this.props.year}/${this.props.race}/${this.props.summaryNumber+1}`}>
                                 Next
                             </Link>}
                     </div>

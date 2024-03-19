@@ -1,46 +1,60 @@
 import React from 'react';
 import './App.css';
-import {RaceSummary} from "./raceSummary";
-import {BrowserRouter, Route, Routes} from "react-router-dom";
+import {RacePageView} from "./components/racePageView";
+import {BrowserRouter, HashRouter, Route, Routes} from "react-router-dom";
 import {AllDataJSONs} from "./importAllJSONs";
-import {Header} from "./header";
-import {Sidebar} from "./sidebar";
+import {Header} from "./components/header";
+import {Sidebar} from "./components/sidebar";
+import {PageView} from "./components/pageView";
+import {QualyFromJSON, RaceFromJSON} from "./types";
+import {QualyPageView} from "./components/qualyPageView";
 
 
 function App() {
     const produceAllRoutes = () => {
         let allRoutes = [];
         for (const year in AllDataJSONs)
-            for (const race in AllDataJSONs[year])
-                for (const id in AllDataJSONs[year][race])
-                    allRoutes.push(
-                        <Route path={`wec-races/${year}/${race}/${id}`} element={<RaceSummary {...AllDataJSONs[parseInt(year)][race][parseInt(id)]}
-                                                                                              URLPathInfo={{
-                                                                                                  year: parseInt(year),
-                                                                                                  race: race,
-                                                                                                  summaryNumber: parseInt(id),
-                                                                                                  maxSummaryNumber: Object.keys(AllDataJSONs[year][race]).length,
-                                                                                                  canLinkLeft: parseInt(id) !== 1,
-                                                                                                  canLinkRight: parseInt(id) !== Object.keys(AllDataJSONs[year][race]).length
-                                                                                              }} />} />
-                    );
+            for (const race in AllDataJSONs[year]) {
+                for (const id in AllDataJSONs[year][race]) {
+                    if (id === 'Q')
+                        allRoutes.push(
+                            <Route path={`/wec-races/${year}/${race}/Q`}
+                                   element={<PageView pageContent={<QualyPageView {...AllDataJSONs[parseInt(year)][race][id] as QualyFromJSON}
+                                                                                  URLPathInfo={{
+                                                                                      year: parseInt(year),
+                                                                                      race: race,
+                                                                                      summaryNumber: 0,
+                                                                                      maxSummaryNumber: Object.keys(AllDataJSONs[year][race]).length-1,
+                                                                                      canLinkLeft: false,
+                                                                                      canLinkRight: true
+                                                                                  }}
+                                   />} />} />);
+                    else
+                        allRoutes.push(
+                            <Route path={`/wec-races/${year}/${race}/${id}`}
+                                   element={<PageView pageContent={<RacePageView {...AllDataJSONs[parseInt(year)][race][parseInt(id)] as RaceFromJSON}
+                                                                                 URLPathInfo={{
+                                                                                    year: parseInt(year),
+                                                                                    race: race,
+                                                                                    summaryNumber: parseInt(id),
+                                                                                    maxSummaryNumber: Object.keys(AllDataJSONs[year][race]).length-1,
+                                                                                    canLinkLeft: true,
+                                                                                    canLinkRight: parseInt(id) !== (Object.keys(AllDataJSONs[year][race]).length - 1)
+                                                                                }} />} />} />
+                        );
+                    }
+                }
         return allRoutes;
     };
 
   return (
-      <BrowserRouter>
+      <HashRouter>
         <Routes>
-            <Route path={'wec-races'} element={(
-                <div className="global">
-                    <Header title={"adriantormos/wec-races"} />
-                    <div className={'body-container'}>
-                        <Sidebar />
-                    </div>
-                </div>
-            )} />
+            <Route path={'/wec-races'}
+                   element={<PageView pageContent={<div />} />} />
             {produceAllRoutes()}
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
   );
 }
 

@@ -1,0 +1,102 @@
+{
+  "eventInfo": {
+    "name": "2024 Qatar 1812km",
+    "year": 2024,
+    "hasHyperpole": true
+  },
+  "plotInfo": {
+    "amountOfLines": 5,
+    "secondsPerLine": 0.5,
+    "secondsPerLineIsLaps": false
+  },
+  "classification": [
+    {
+      "number": 5,
+      "distance": 0.0,
+      "time": "1:39.154",
+      "timeHyperpole": "1:39.347",
+      "distanceHyperpole": 0.19299999999999784
+    },
+    {
+      "number": 7,
+      "distance": 0.4129999999999967,
+      "distanceHyperpole": 0.3569999999999993
+    },
+    {
+      "number": 12,
+      "distance": 0.5600000000000023,
+      "distanceHyperpole": 0.4680000000000035
+    },
+    {
+      "number": 50,
+      "distance": 0.9429999999999978,
+      "distanceHyperpole": 0.8220000000000027
+    },
+    {
+      "number": 6,
+      "distance": 1.1629999999999967,
+      "distanceHyperpole": 0.8269999999999982
+    },
+    {
+      "number": 93,
+      "distance": 0.8200000000000074,
+      "distanceHyperpole": 0.9129999999999967
+    },
+    {
+      "number": 2,
+      "distance": 1.2920000000000016,
+      "distanceHyperpole": 0.9489999999999981
+    },
+    {
+      "number": 51,
+      "distance": 1.3680000000000092,
+      "distanceHyperpole": 1.0700000000000074
+    },
+    {
+      "number": 38,
+      "distance": 1.4150000000000063,
+      "distanceHyperpole": 1.2079999999999984
+    },
+    {
+      "number": 94,
+      "distance": 1.1270000000000095,
+      "distanceHyperpole": 1.3500000000000085
+    },
+    {
+      "number": 8,
+      "distance": 1.4320000000000022
+    },
+    {
+      "number": 83,
+      "distance": 1.480000000000004
+    },
+    {
+      "number": 99,
+      "distance": 1.5210000000000008
+    },
+    {
+      "number": 36,
+      "distance": 1.5280000000000058
+    },
+    {
+      "number": 15,
+      "distance": 1.5480000000000018
+    },
+    {
+      "number": 20,
+      "distance": 1.5840000000000032
+    },
+    {
+      "number": 35,
+      "distance": 1.8299999999999983
+    },
+    {
+      "number": 63,
+      "distance": 2.5450000000000017
+    },
+    {
+      "number": 11,
+      "distance": 4.034999999999997
+    }
+  ]
+}

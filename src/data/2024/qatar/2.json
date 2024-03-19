@@ -1,0 +1,93 @@
+{
+  "eventInfo": {
+    "name": "2024 Qatar 1812km",
+    "year": 2024,
+    "currentLap": 37,
+    "totalLaps": 335,
+    "elapsedTime": 3910
+  },
+  "plotInfo": {
+    "amountOfLines": 5,
+    "secondsPerLine": 20,
+    "secondsPerLineIsLaps": false
+  },
+  "description": "At about half an hour into the race, on lap 16, [b]the #93 Peugeot finally overtook the #50 Ferrari for the lead[/b] at Turn 1 after several laps of pressure. Clearly with more pace, the now-leader got away, [b]putting up to 11 seconds between them and second place[/b] before the first round of pit-stops. Behind, [b]the #50 Ferrari defended second place[/b] from the intense pressure of the Porsches, and the midfield still ran very close, but without many overtakes.\n\nOn lap 19, [b]Peugeot decided to pit their #94 car[/b], which was stuck in the midfield and incapable of overtaking, in hopes that [b]running off-sync in clear air would recover them some positions[/b] after the pit-stops.\n\nRight before the 1-hour mark, the first round of pit-stops began. On this first shuffle, [b]the #50 Ferrari boxed some laps earlier[/b] than the rest, [b]and got overcut by the Porsches[/b], falling down to 6th place just in front of its sister car. [b]The #6 Porsche became second, best of the Porsches,[/b] and [b]the #94 Peugeot managed to jump up to 10th place[/b] with its alternate strategy. Slow stops for both BMWs put them in 16th and 17th, and Cadillac saw their #2 car fall to last place after having to replace its front.\n\nOne hour had passed now, and [b]the #93 Peugeot lead the Porsches and the Ferraris[/b]. However, it was slowly starting to lose ground with the #6 Porsche.",
+  "classification": [
+    {
+      "number": 93,
+      "distance": 0.0
+    },
+    {
+      "number": 6,
+      "distance": 2.862999999999829
+    },
+    {
+      "number": 5,
+      "distance": 9.724999999999909
+    },
+    {
+      "number": 12,
+      "distance": 16.85699999999997
+    },
+    {
+      "number": 38,
+      "distance": 29.036000000000058
+    },
+    {
+      "number": 50,
+      "distance": 30.36499999999978
+    },
+    {
+      "number": 51,
+      "distance": 33.32899999999972
+    },
+    {
+      "number": 83,
+      "distance": 38.66100000000006
+    },
+    {
+      "number": 7,
+      "distance": 41.521999999999935
+    },
+    {
+      "number": 94,
+      "distance": 42.45799999999963
+    },
+    {
+      "number": 99,
+      "distance": 43.61999999999989
+    },
+    {
+      "number": 36,
+      "distance": 46.12300000000005
+    },
+    {
+      "number": 35,
+      "distance": 51.223999999999705
+    },
+    {
+      "number": 8,
+      "distance": 52.054999999999836
+    },
+    {
+      "number": 63,
+      "distance": 54.94599999999991
+    },
+    {
+      "number": 20,
+      "distance": 65.86299999999983
+    },
+    {
+      "number": 15,
+      "distance": 66.71699999999964
+    },
+    {
+      "number": 11,
+      "distance": 71.4079999999999
+    },
+    {
+      "number": 2,
+      "distance": 89.26699999999983
+    }
+  ]
+}

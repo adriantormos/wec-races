@@ -1,0 +1,67 @@
+{
+  "eventInfo": {
+    "name": "2023 6 Hours of Spa",
+    "year": 2023,
+    "hasHyperpole": false
+  },
+  "plotInfo": {
+    "amountOfLines": 5,
+    "secondsPerLine": 1,
+    "secondsPerLineIsLaps": false
+  },
+  "classification": [
+    {
+      "number": 7,
+      "distance": 0.0,
+      "time": "2:00.812"
+    },
+    {
+      "number": 50,
+      "distance": 0.024000000208616257
+    },
+    {
+      "number": 51,
+      "distance": 0.16099999845027924
+    },
+    {
+      "number": 2,
+      "distance": 0.23100000619888306
+    },
+    {
+      "number": 3,
+      "distance": 1.3259999752044678
+    },
+    {
+      "number": 6,
+      "distance": 1.49399995803833
+    },
+    {
+      "number": 38,
+      "distance": 2.0950000286102295
+    },
+    {
+      "number": 708,
+      "distance": 2.1480000019073486
+    },
+    {
+      "number": 93,
+      "distance": 2.4049999713897705
+    },
+    {
+      "number": 5,
+      "distance": 2.8380000591278076
+    },
+    {
+      "number": 94,
+      "distance": 3.066999912261963
+    },
+    {
+      "number": 4,
+      "distance": 3.802000045776367
+    },
+    {
+      "number": 8,
+      "distance": "No time"
+    }
+  ]
+}

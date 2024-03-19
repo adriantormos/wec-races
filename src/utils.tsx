@@ -73,7 +73,7 @@ export const CarInformation : Record<number, CarInfoForSeason> = {
 
         '50': {backgroundColor: "#ff0000", textColor: "#ffff00", name: "Ferrari AF Corse"},
         '51': {backgroundColor: "#ff0000", textColor: "#ffff00", name: "Ferrari AF Corse"},
-        '83': {backgroundColor: "#ff0000", textColor: "#ffffff", name: "AF Corse"},
+        '83': {backgroundColor: "#ffff00", textColor: "#ff0000", name: "AF Corse"},
 
         '63': {backgroundColor: "#00ff00", textColor: "#000000", name: "Lamborghini Iron Lynx"},
 

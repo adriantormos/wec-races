@@ -26,6 +26,7 @@ html, body {
 
 .header {
     width: calc(100vw - 2*var(--div-padding));
+    /*height: 160px;*/
     height: var(--header-height);
     padding-left: var(--div-padding);
     padding-right: var(--div-padding);
@@ -48,6 +49,7 @@ html, body {
 }
 
 .sidebar {
+    /*width: calc(650px - 2*var(--sidebar-padding));*/
     width: calc(300px - 2*var(--sidebar-padding));
     padding: var(--sidebar-padding);
 
@@ -97,4 +99,8 @@ html, body {
 
 .race-classification-table-row {
     border-bottom: 1px solid #ccc;
+}
+
+.previous-next-link {
+    /*color: white;*/
 }

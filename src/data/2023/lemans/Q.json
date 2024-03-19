@@ -1,0 +1,88 @@
+{
+  "eventInfo": {
+    "name": "Centenary 24h of Le Mans",
+    "year": 2023,
+    "hasHyperpole": true
+  },
+  "plotInfo": {
+    "amountOfLines": 5,
+    "secondsPerLine": 2,
+    "secondsPerLineIsLaps": false
+  },
+  "classification": [
+    {
+      "number": 50,
+      "distance": 2.2309999999999945,
+      "time": "3:25.213",
+      "timeHyperpole": "3:22.982",
+      "distanceHyperpole": 0.0
+    },
+    {
+      "number": 51,
+      "distance": 2.430000000000007,
+      "distanceHyperpole": 0.7729999999999961
+    },
+    {
+      "number": 8,
+      "distance": 2.766999999999996,
+      "distanceHyperpole": 1.468999999999994
+    },
+    {
+      "number": 75,
+      "distance": 3.6069999999999993,
+      "distanceHyperpole": 1.5490000000000066
+    },
+    {
+      "number": 7,
+      "distance": 2.5030000000000143,
+      "distanceHyperpole": 1.9509999999999934
+    },
+    {
+      "number": 2,
+      "distance": 3.038000000000011,
+      "distanceHyperpole": 2.187999999999988
+    },
+    {
+      "number": 5,
+      "distance": 2.866000000000014,
+      "distanceHyperpole": 2.1939999999999884
+    },
+    {
+      "number": 3,
+      "distance": 2.9420000000000073,
+      "distanceHyperpole": 2.5389999999999873
+    },
+    {
+      "number": 6,
+      "distance": 3.9180000000000064
+    },
+    {
+      "number": 93,
+      "distance": 4.277999999999992
+    },
+    {
+      "number": 94,
+      "distance": 4.867999999999995
+    },
+    {
+      "number": 708,
+      "distance": 5.515000000000015
+    },
+    {
+      "number": 311,
+      "distance": 5.784999999999997
+    },
+    {
+      "number": 709,
+      "distance": 6.099999999999994
+    },
+    {
+      "number": 4,
+      "distance": 6.763000000000005
+    },
+    {
+      "number": 38,
+      "distance": "No time"
+    }
+  ]
+}

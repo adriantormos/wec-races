@@ -1,0 +1,94 @@
+{
+  "eventInfo": {
+    "name": "2024 Qatar 1812km",
+    "year": 2024,
+    "currentLap": 202,
+    "totalLaps": 335,
+    "elapsedTime": 21617
+  },
+  "plotInfo": {
+    "amountOfLines": 4,
+    "secondsPerLine": 103,
+    "secondsPerLineIsLaps": true,
+    "linesPerLap": 1
+  },
+  "description": "Four and a half hours in, the race had a second small Full-Course Yellow because of debris on the track. At the time, the #50 Ferrari and #8 Toyota had been fighting on track for more than 30 minutes for the last points-scoring position, surprisingly instead of for the lead. \n\nImmediately after, the start of the fifth round of pit-stops ended the battle, with the Ferrari coming up ahead. During its pit-stop, [b]Toyota had a problem with their wheelgun that made the #8 car fall down to 15th[/b]. And just a few laps later, almost at the same time, [b]the #11 Isotta suffered a front-left suspension failure and the #94 Peugeot had a battery issue[/b]. While the Peugeot could repair the problem, albeit losing around 20 laps and any chance left it had at scoring points, [b]the Isotta Fraschini team preferred to retire the car[/b] and study the issue in detail.\n\nFinally in the second half of the race, during the sixth hour [b]the #93 Peugeot cut down the distance with the leading #6 Porsche down to only 9 seconds[/b]. [b]The #5 Porsche was back on the podium[/b], having passed the #12 Jota in the pits. The #83 AF Corse and #38 Jota almost had their races ended when an LMGT3 car unsafely rejoined the track after a run through the gravel at Turns 9 and 10. [b]The #50 Ferrari continued its recovery drive[/b] with very good pace and was up to 8th, now ahead of the also recovering #2 Cadillac. And in the midfield, due to the problems of the #8 Toyota and #94 Peugeot, a new battle emerged for the last point-scoring position: [b]the #36 Alpine inherited 10th place[/b], and momentarily was [b]the only newcomer car in the points[/b], but it was being quickly caught up by the #99 Proton, with fresher tyres. They ran nose to tail for 10 laps, until the Proton was finally able to go by at Turn 1.",
+  "classification": [
+    {
+      "number": 6,
+      "distance": 0.0
+    },
+    {
+      "number": 93,
+      "distance": 9.05699999999706
+    },
+    {
+      "number": 5,
+      "distance": 32.344999999997526
+    },
+    {
+      "number": 12,
+      "distance": 38.67199999999866
+    },
+    {
+      "number": 7,
+      "distance": 101.83499999999913
+    },
+    {
+      "number": 38,
+      "distance": 123.17499999999927
+    },
+    {
+      "number": 83,
+      "distance": 131.67099999999846
+    },
+    {
+      "number": 50,
+      "distance": 133.4509999999973
+    },
+    {
+      "number": 2,
+      "distance": 154.93399999999747
+    },
+    {
+      "number": 99,
+      "distance": 184.46899999999732
+    },
+    {
+      "number": 36,
+      "distance": 192.3760000000002
+    },
+    {
+      "number": 8,
+      "distance": 197.0759999999973
+    },
+    {
+      "number": 20,
+      "distance": 203.86299999999756
+    },
+    {
+      "number": 15,
+      "distance": 212.66599999999744
+    },
+    {
+      "number": 35,
+      "distance": 221.98300000000017
+    },
+    {
+      "number": 51,
+      "distance": 245.16200000000026
+    },
+    {
+      "number": 63,
+      "distance": 307.6280000000006
+    },
+    {
+      "number": 94,
+      "distance": 1999.4179999999978
+    },
+    {
+      "number": 11,
+      "distance": "DNF"
+    }
+  ]
+}

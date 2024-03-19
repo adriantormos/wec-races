@@ -1,0 +1,94 @@
+{
+  "eventInfo": {
+    "name": "2024 Qatar 1812km",
+    "year": 2024,
+    "currentLap": 270,
+    "totalLaps": 335,
+    "elapsedTime": 28797
+  },
+  "plotInfo": {
+    "amountOfLines": 5,
+    "secondsPerLine": 103,
+    "secondsPerLineIsLaps": true,
+    "linesPerLap": 1
+  },
+  "description": "As the sun set in Qatar, gravel was starting to accumulate at the outside of Turn 9, and it was becoming a delicate spot. [b]The #38 Jota almost collided with an LMGT3 car[/b] there, [b]and the #2 Cadillac did hit one[/b] only a few laps later, without real consequence.\n\nSix hours into the race, the debutant #63 Lamborghini reported its first issue of the race. After small repairs, it was now definitely in no man’s land in 17th, one lap behind its nearest competitor and only ahead of the repaired #94 Peugeot in last.\n\nNow in the dark of the night, no one could follow the pace of the #6 Porsche. In the span of two hours, with slight tyre advantage, [b]the #6 Porsche increased its lead again from 9 to more than a minute[/b] over the #93 Peugeot. Meanwhile, [b]its sister #5 car had vibration issues again[/b] and had to make another extra stop for repairs, dropping down to 7th place. While recovering places, it fought a very defensive #38 Jota for various laps, making contact a couple of times, until overtaking it on the inside at Turn 6. And after a shorter pit-stop than the cars around it, it bounced back up to 4th place.\n\nA bit over seven hours in, Turn 9 struck again as [b]the #36 Alpine slid through the gravel[/b] after slightly tapping an LMGT3, managing to avoid the barriers and coming in unscathed.",
+  "classification": [
+    {
+      "number": 6,
+      "distance": 0.0
+    },
+    {
+      "number": 93,
+      "distance": 67.4419999999991
+    },
+    {
+      "number": 12,
+      "distance": 122.83199999999852
+    },
+    {
+      "number": 5,
+      "distance": 143.6700000000019
+    },
+    {
+      "number": 83,
+      "distance": 199.22699999999895
+    },
+    {
+      "number": 38,
+      "distance": 203.69700000000012
+    },
+    {
+      "number": 7,
+      "distance": 213.41300000000047
+    },
+    {
+      "number": 50,
+      "distance": 240.55099999999948
+    },
+    {
+      "number": 2,
+      "distance": 260.2400000000016
+    },
+    {
+      "number": 99,
+      "distance": 291.27500000000146
+    },
+    {
+      "number": 8,
+      "distance": 303.08699999999953
+    },
+    {
+      "number": 36,
+      "distance": 311.29599999999846
+    },
+    {
+      "number": 35,
+      "distance": 324.9989999999998
+    },
+    {
+      "number": 20,
+      "distance": 327.6650000000009
+    },
+    {
+      "number": 15,
+      "distance": 330.74199999999837
+    },
+    {
+      "number": 51,
+      "distance": 339.4500000000007
+    },
+    {
+      "number": 63,
+      "distance": 612.2870000000003
+    },
+    {
+      "number": 94,
+      "distance": 2058.6349999999984
+    },
+    {
+      "number": 11,
+      "distance": "DNF"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "eventInfo": {
+    "name": "2024 Qatar 1812km",
+    "year": 2024,
+    "currentLap": 70,
+    "totalLaps": 335,
+    "elapsedTime": 7557
+  },
+  "plotInfo": {
+    "amountOfLines": 5,
+    "secondsPerLine": 34,
+    "secondsPerLineIsLaps": true,
+    "linesPerLap": 3
+  },
+  "description": "During the second hour of the race, second[b] placed #6 Porsche closed the gap to the leading #93 Peugeot[/b] to less than 1 second. A battle for the lead had started. At the same time, [b]the #50 Ferrari got a drive-through penalty, causing it to fall down to 15th place[/b]. A very late call to enter the pits meant it had crossed the white line on pit entry.\n\nFor the next 20 minutes, the top-2 would run very close to each other, with the #6 Porsche making some attempts to overtake for the lead. Finally, on lap 54, [b]the #93 Peugeot ran wide at turn 1[/b] trying to get past an LMGT3 car [b]and the #6 Porsche took the lead[/b]. \n\nWhile #6 was taking the lead, [b]its sister #5 car was suffering heavy vibrations[/b] and very rapidly losing pace and positions, having to box earlier than expected to change tyres and solve the problem. And just one lap later, misfortune would keep striking Ferrari, as [b]the #51 Ferrari hit an LMGT3 car causing a puncture and making its entire rear end fall off[/b]. The incident prompted a Full-Course Yellow period, and after reparations, [b]both factory Ferraris were outside points-scoring positions[/b].\n\nAfter the second round of pit-stops, [b]the #93 Peugeot had been undercut by the #12 Jota[/b] and was now third. Continuing its recovery drive in the midfield, [b]the #94 Peugeot was now up to 6th[/b], only behind its sister car and the Porsches. In a similar vein, after losing ground because of reparations, the #2 Cadillac was now catching the midfield peloton, running at a very similar pace as the leaders. And in last again, the #11 Isotta was drifting off two laps down.",
+  "classification": [
+    {
+      "number": 6,
+      "distance": 0.0
+    },
+    {
+      "number": 12,
+      "distance": 9.285000000000764
+    },
+    {
+      "number": 93,
+      "distance": 19.902000000000044
+    },
+    {
+      "number": 5,
+      "distance": 39.34600000000046
+    },
+    {
+      "number": 38,
+      "distance": 42.90600000000086
+    },
+    {
+      "number": 94,
+      "distance": 53.61800000000039
+    },
+    {
+      "number": 7,
+      "distance": 59.64600000000064
+    },
+    {
+      "number": 83,
+      "distance": 66.86000000000058
+    },
+    {
+      "number": 8,
+      "distance": 93.07300000000032
+    },
+    {
+      "number": 15,
+      "distance": 93.77700000000004
+    },
+    {
+      "number": 20,
+      "distance": 95.10300000000007
+    },
+    {
+      "number": 2,
+      "distance": 99.34900000000016
+    },
+    {
+      "number": 36,
+      "distance": 102.07600000000002
+    },
+    {
+      "number": 35,
+      "distance": 103.0010000000002
+    },
+    {
+      "number": 50,
+      "distance": 106.52400000000034
+    },
+    {
+      "number": 99,
+      "distance": 109.11200000000008
+    },
+    {
+      "number": 63,
+      "distance": 123.02700000000004
+    },
+    {
+      "number": 51,
+      "distance": 139.5660000000007
+    },
+    {
+      "number": 11,
+      "distance": 223.80000000000018
+    }
+  ]
+}

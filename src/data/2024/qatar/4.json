@@ -1,0 +1,94 @@
+{
+  "eventInfo": {
+    "name": "2024 Qatar 1812km",
+    "year": 2024,
+    "currentLap": 145,
+    "totalLaps": 335,
+    "elapsedTime": 15462
+  },
+  "plotInfo": {
+    "amountOfLines": 6,
+    "secondsPerLine": 51,
+    "secondsPerLineIsLaps": true,
+    "linesPerLap": 2
+  },
+  "description": "On the third hour of the race, [b]the #6 Porsche pulled a lead of around 25 seconds[/b]. The midfield cars ran clearly slower than the top-5, and would all be lapped. After three hours, [b]only six cars remained on the lead lap[/b].\n\nDuring this time, the action centered around the recovery drives of the #2 Cadillac and both factory Ferraris. [b]The #2 Cadillac and #50 Ferrari sliced through the midfield[/b], and at the 3-hour mark they had managed to get up to 9th and 10th, all the while the #51 Ferrari struggled for almost an hour to pass the #63 Lamborghini for 17th place.\n\nAfter that, the race calmed down as the gaps between all cars started to increase. There were battles across the field, with some taps between cars and near-misses, but no incidents with major consequences. [b]Porsches and the #93 Peugeot composed the top-4[/b]. The mostly unnoticed #83 AF Corse ran in 5th, running a clean race without much issue, and the #7 Toyota was up to 6th, but didn’t have the pace to compete for more. [b]The newcomer cars all ran outside the top-10[/b], joined by the #99 Proton, the only Porsche struggling to find pace. Still last, the #11 Isotta received two consecutive stop-and-go penalties during the fourth hour of the race, losing yet more laps to the leaders.",
+  "classification": [
+    {
+      "number": 6,
+      "distance": 0.0
+    },
+    {
+      "number": 93,
+      "distance": 22.591999999998734
+    },
+    {
+      "number": 12,
+      "distance": 41.66599999999926
+    },
+    {
+      "number": 5,
+      "distance": 45.92699999999968
+    },
+    {
+      "number": 83,
+      "distance": 86.99399999999878
+    },
+    {
+      "number": 7,
+      "distance": 95.67100000000028
+    },
+    {
+      "number": 38,
+      "distance": 109.55699999999888
+    },
+    {
+      "number": 94,
+      "distance": 123.54600000000028
+    },
+    {
+      "number": 2,
+      "distance": 133.59900000000016
+    },
+    {
+      "number": 8,
+      "distance": 142.73699999999917
+    },
+    {
+      "number": 50,
+      "distance": 143.34900000000016
+    },
+    {
+      "number": 99,
+      "distance": 158.55599999999868
+    },
+    {
+      "number": 36,
+      "distance": 163.08399999999892
+    },
+    {
+      "number": 20,
+      "distance": 168.97500000000036
+    },
+    {
+      "number": 15,
+      "distance": 170.03600000000006
+    },
+    {
+      "number": 35,
+      "distance": 181.57699999999932
+    },
+    {
+      "number": 51,
+      "distance": 208.85299999999916
+    },
+    {
+      "number": 63,
+      "distance": 232.40899999999965
+    },
+    {
+      "number": 11,
+      "distance": 972.6279999999988
+    }
+  ]
+}

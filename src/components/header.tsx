@@ -1,10 +1,11 @@
 import React from "react";
-import "./raceSummary.css";
+import "../raceSummary.css";
 
 
 export function Header(props: { title: string }) {
     return (
-        <div className={'header'}>{props.title}
+        <div className={'header'}>
+            {props.title}
         </div>
     )
 }
