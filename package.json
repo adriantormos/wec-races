@@ -1,7 +1,7 @@
 {
   "name": "racing-js",
   "version": "0.1.0",
-  "homepage": "https://adriantormos.github.io/wec-races",
+  "homepage": "https://adriantormos.github.io/#/wec-races",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.3",
