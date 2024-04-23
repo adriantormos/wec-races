@@ -12,7 +12,7 @@
     "secondsPerLineIsLaps": true,
     "linesPerLap": 1
   },
-  "description": "With less than an hour to go, [b]the #93 Peugeot and the #12 Jota had converged on track[/b] and were back on the lead lap, 40 seconds behind the leader. They fought for second place, but [b]a potential win was at stake[/b] too if the leader needed repairs. Going for an undercut, Jota brought their car first, but Peugeot managed to keep their car in front after their stop.\n\nIn parallel, the [b]#38 Jota had to retire after a problem with the hybrid system[/b] while fighting for 6th place. The leader #6 Porsche and both Alpines had a final scare each, as they separately went off at the infamous Turn 9 one last time.\n\nLess than 10 laps remaining, [b]the leader #6 Porsche had enough margin on track to perform a quick stop[/b] to glue a number panel printed in paper to the remains of the left bodywork, saving themselves any trouble. Half a minute behind, [b]the #93 Peugeot, #12 Jota and #5 Porsche fought for podium positions[/b], but drama struck with only 2 laps to go, as [b]the #93 Peugeot lost power and came to a halt[/b]. Trying to salvage points, it continued running with electric energy, but [b]it earned a disqualification[/b] for deploying it at lower speeds than permitted.\n\n[b]The #6 Porsche comfortably won the race[/b] and [b]the #12 Jota managed to fend the #5 Porsche off in-extremis for second place[/b]. Behind, [b]the #2 Cadillac recovered up to fourth after saving a stop[/b] and [b]the #83 AF Corse completed the top-5[/b] with a very solid debut. Disappointment for Toyota, the current champions, who did not have the pace; and for the Ferrari, who were struck with multiple issues. In contrast, [b]a satisfying race for the #35 Alpine, the only newcomer car in the points[/b].",
+  "description": "With less than an hour to go, [b]the #93 Peugeot and the #12 Jota had converged on track[/b] and were back on the lead lap, 40 seconds behind the leader. They fought for second place, but [b]a potential win was at stake[/b] too if the leader needed repairs. Going for an undercut, Jota brought their car first, but Peugeot managed to keep their car in front after their stop.\n\nIn parallel, the [b]#38 Jota had to retire after a problem with the hybrid system[/b] while fighting for 6th place. The leader #6 Porsche and both Alpines had a final scare each, as they separately went off at the infamous Turn 9 one last time.\n\nLess than 10 laps remaining, [b]the leader #6 Porsche had enough margin on track to perform a quick stop[/b] to glue a number panel printed in paper to the remains of the left bodywork, saving themselves any trouble. Half a minute behind, [b]the #93 Peugeot, #12 Jota and #5 Porsche fought for podium positions[/b], but drama struck with only 2 laps to go, as [b]the #93 Peugeot lost power and came to a halt[/b]. Trying to salvage points, it continued running with electric energy, but [b]it earned a disqualification[/b] for deploying it at lower speeds than permitted.\n\n[b]The #6 Porsche comfortably won the race[/b] and [b]the #12 Jota managed to fend the #5 Porsche off in-extremis for second place[/b]. Behind, [b]the #2 Cadillac recovered up to fourth after saving a stop[/b] and [b]the #83 AF Corse completed the top-5[/b] with a very solid debut. Disappointment for Toyota, the current champions, who did not have the pace; and for the Ferrari, who were struck with multiple issues. In contrast, [b]a satisfying race for the #35 Alpine, the only newcomer car in the points[/b].\n\nUpdate: [b]the #2 Cadillac was disqualified[/b] three weeks after the race due to a technical infringement.",
   "classification": [
     {
       "number": 6,
@@ -25,10 +25,6 @@
     {
       "number": 5,
       "distance": 34.39600000000064
-    },
-    {
-      "number": 2,
-      "distance": 117.58599999999569
     },
     {
       "number": 83,
@@ -85,6 +81,10 @@
     {
       "number": 11,
       "distance": "DNF"
+    },
+    {
+      "number": 2,
+      "distance": "DSQ"
     },
     {
       "number": 93,
