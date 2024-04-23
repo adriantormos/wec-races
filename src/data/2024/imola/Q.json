@@ -1,0 +1,104 @@
+{
+  "eventInfo": {
+    "name": "2024 6 Hours of Imola",
+    "year": 2024,
+    "hasHyperpole": true
+  },
+  "plotInfo": {
+    "amountOfLines": 4,
+    "secondsPerLine": 1,
+    "secondsPerLineIsLaps": false
+  },
+  "classification": [
+    {
+      "number": 50,
+      "distance": 0.730000000000004,
+      "time": "1:30.196",
+      "timeHyperpole": "1:29.466",
+      "distanceHyperpole": 0.0
+    },
+    {
+      "number": 83,
+      "distance": 1.2439999999999998,
+      "distanceHyperpole": 0.41900000000001114
+    },
+    {
+      "number": 51,
+      "distance": 1.2700000000000102,
+      "distanceHyperpole": 0.487000000000009
+    },
+    {
+      "number": 6,
+      "distance": 1.7240000000000038,
+      "distanceHyperpole": 0.6350000000000051
+    },
+    {
+      "number": 5,
+      "distance": 0.7550000000000097,
+      "distanceHyperpole": 0.9190000000000111
+    },
+    {
+      "number": 7,
+      "distance": 1.1700000000000017,
+      "distanceHyperpole": 0.9440000000000026
+    },
+    {
+      "number": 20,
+      "distance": 1.4840000000000089,
+      "distanceHyperpole": 1.1340000000000003
+    },
+    {
+      "number": 8,
+      "distance": 1.031000000000006,
+      "distanceHyperpole": 1.186000000000007
+    },
+    {
+      "number": 12,
+      "distance": 1.5260000000000105,
+      "distanceHyperpole": 1.190000000000012
+    },
+    {
+      "number": 99,
+      "distance": 1.463000000000008,
+      "distanceHyperpole": 1.225999999999999
+    },
+    {
+      "number": 38,
+      "distance": 1.8560000000000088
+    },
+    {
+      "number": 2,
+      "distance": 1.9310000000000116
+    },
+    {
+      "number": 15,
+      "distance": 2.0830000000000126
+    },
+    {
+      "number": 94,
+      "version": "b",
+      "distance": 2.1850000000000023
+    },
+    {
+      "number": 93,
+      "version": "b",
+      "distance": 2.2820000000000107
+    },
+    {
+      "number": 63,
+      "distance": 2.396000000000001
+    },
+    {
+      "number": 35,
+      "distance": 2.51400000000001
+    },
+    {
+      "number": 36,
+      "distance": 2.588000000000008
+    },
+    {
+      "number": 11,
+      "distance": 4.109000000000009
+    }
+  ]
+}

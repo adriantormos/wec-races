@@ -1,0 +1,96 @@
+{
+  "eventInfo": {
+    "name": "2024 6 Hours of Imola",
+    "year": 2024,
+    "currentLap": 140,
+    "totalLaps": 205,
+    "elapsedTime": 14708
+  },
+  "plotInfo": {
+    "amountOfLines": 4,
+    "secondsPerLine": 52,
+    "secondsPerLineIsLaps": true,
+    "linesPerLap": 2
+  },
+  "description": "Three hours and a half into the race, drama struck as [b]it started to drizzle in Variante Alta[/b]. The track dampened quickly, and [b]it caught the #11 Isotta and the #12 Jota, who both spun consecutively[/b], bringing out the Full Course Yellow. Very quickly it started raining from Tosa and Piratella. In the restart, [b]the #7 Toyota reacted quicker and overtook the #50 Ferrari for second[/b].\n\nIn a matter of minutes, [b]chaos ensued as it started to rain lightly on all the circuit and the #94 Peugeot and the #12 were out on the gravel[/b], prompting a Virtual Safety Car period. [b]Most of the field stopped for new slick tyres under the VSC[/b], but crucially, [b]the #51 Ferrari lost the lead to the #7 Toyota as it stopped just before it started[/b]. And just one lap later, as the VSC became a full Safety Car, [b]drizzle became rain and the track was declared wet[/b]. But a full Safety Car meant the pit entry was closed and [b]no one could stop for wet tyres until the race restarted[/b].\n\nWith just above two hours to go, the race restarted and once again cars were immediately running through the gravel. The track was damp enough that [b]all the field stopped for wet tyres except for all the Ferraris and the #5 Porsche, who gambled on the rain not lasting enough[/b]. However, the track conditions only got worse and [b]the gamble did not pay off[/b], and the Ferraris were losing more than 10 seconds per lap. They stopped just minutes later, but it was too late: [b]the former leaders came out of the pits a full minute behind[/b], 6th to 8th, and [b]the #7 Toyota was now on the lead[/b].",
+  "classification": [
+    {
+      "number": 7,
+      "distance": 0.0
+    },
+    {
+      "number": 6,
+      "distance": 6.184999999999491
+    },
+    {
+      "number": 8,
+      "distance": 25.086999999999534
+    },
+    {
+      "number": 20,
+      "distance": 30.653999999998632
+    },
+    {
+      "number": 5,
+      "distance": 37.831999999998516
+    },
+    {
+      "number": 51,
+      "distance": 60.669999999998254
+    },
+    {
+      "number": 50,
+      "distance": 63.11899999999878
+    },
+    {
+      "number": 83,
+      "distance": 88.33799999999974
+    },
+    {
+      "number": 99,
+      "distance": 121.91799999999967
+    },
+    {
+      "number": 38,
+      "distance": 123.36699999999837
+    },
+    {
+      "number": 2,
+      "distance": 123.6969999999983
+    },
+    {
+      "number": 93,
+      "version": "b",
+      "distance": 129.3729999999996
+    },
+    {
+      "number": 63,
+      "distance": 166.88400000000001
+    },
+    {
+      "number": 35,
+      "distance": 311.1319999999996
+    },
+    {
+      "number": 12,
+      "distance": 526.2969999999987
+    },
+    {
+      "number": 36,
+      "distance": 624.3509999999987
+    },
+    {
+      "number": 94,
+      "version": "b",
+      "distance": 658.7979999999989
+    },
+    {
+      "number": 11,
+      "distance": 1198.3989999999994
+    },
+    {
+      "number": 15,
+      "distance": 4590.936
+    }
+  ]
+}

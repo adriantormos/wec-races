@@ -1,0 +1,94 @@
+{
+  "eventInfo": {
+    "name": "2024 6 Hours of Imola",
+    "year": 2024,
+    "currentLap": 205,
+    "totalLaps": 205,
+    "elapsedTime": 21635
+  },
+  "plotInfo": {
+    "amountOfLines": 4,
+    "secondsPerLine": 94,
+    "secondsPerLineIsLaps": true,
+    "linesPerLap": 1
+  },
+  "description": "In only 20 minutes, a very fast #6 Porsche cut all the gap with the leader #7 Toyota but in a last turn of events, [b]the Porsche was given a 5-second penalty[/b]. It now had to overtake the leader and have enough time to pull a gap. But albeit being faster, it wasn't enough to overtake in the narrow Imola, and ultimately [b]the #7 Toyota could defend its position to win the race[/b]. [b]The #6 and #5 Porsches completed the podium, after a strong race[/b].\n\nBeing the quickest car on track during the last hour of the race, the #50 Ferrari managed to salvage a 4th place by overtaking the #8 Toyota on the last lap. Still [b]a disastrous race for Ferrari, who transformed a 1-2-3 in qualifying into 4th, 7th and 8th places[/b]. All the contrary for the #20 BMW, who impressively finished in 6th having competitive pace for a good part of the race.\n\nIn no man's land, [b]the new Peugeot debuted with a very quiet 9th place for the #93 car[/b]. Closing the top 10 was the #2 Cadillac, who could grab a point thanks to its great pace on the wet. Also very disappointing race for the Jota team, who just didn't have the pace and finished 11th and 14th. On the other hand, this time around [b]a solid #63 Lamborghini finished in 12th, being able to follow the pace of the midfield[/b].\n\nLastly, the Alpines could not compete from the start, having their race ruined at the start, and the #11 Isotta had too little pace and too many spins to compete with the rest of the field. And in the end, the last placed #15 BMW was disqualified after failing to rejoin parc fermé under its own power.",
+  "classification": [
+    {
+      "number": 7,
+      "distance": 0.0
+    },
+    {
+      "number": 6,
+      "distance": 2.080999999998312
+    },
+    {
+      "number": 5,
+      "distance": 25.626000000000204
+    },
+    {
+      "number": 50,
+      "distance": 31.46900000000096
+    },
+    {
+      "number": 8,
+      "distance": 33.776999999998225
+    },
+    {
+      "number": 20,
+      "distance": 106.14800000000105
+    },
+    {
+      "number": 51,
+      "distance": 120.27000000000044
+    },
+    {
+      "number": 83,
+      "distance": 122.05199999999968
+    },
+    {
+      "number": 93,
+      "distance": 193.51699999999983
+    },
+    {
+      "number": 2,
+      "distance": 207.97300000000178
+    },
+    {
+      "number": 38,
+      "distance": 241.88999999999942
+    },
+    {
+      "number": 63,
+      "distance": 251.79300000000148
+    },
+    {
+      "number": 35,
+      "distance": 466.47699999999895
+    },
+    {
+      "number": 12,
+      "distance": 562.4359999999979
+    },
+    {
+      "number": 94,
+      "distance": 571.9249999999993
+    },
+    {
+      "number": 36,
+      "distance": 573.2929999999978
+    },
+    {
+      "number": 11,
+      "distance": 1322.4670000000006
+    },
+    {
+      "number": 99,
+      "distance": "DNF"
+    },
+    {
+      "number": 15,
+      "distance": "DSQ"
+    }
+  ]
+}

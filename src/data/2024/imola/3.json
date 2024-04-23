@@ -1,0 +1,96 @@
+{
+  "eventInfo": {
+    "name": "2024 6 Hours of Imola",
+    "year": 2024,
+    "currentLap": 119,
+    "totalLaps": 205,
+    "elapsedTime": 11778
+  },
+  "plotInfo": {
+    "amountOfLines": 4,
+    "secondsPerLine": 47,
+    "secondsPerLineIsLaps": true,
+    "linesPerLap": 2
+  },
+  "description": "At the second round of stops, around two hours into the race, most cars put on new tyres. Despite having a slow stop and losing time, [b]the #51 Ferrari could keep the lead[/b]. [b]Its sister #50 car[/b], not changing tyres, [b]jumped to third again, as the #6 Porsche changed all tyres[/b]. Shortly out of the pits, [b]it also overtook the #7 Toyota for second[/b]. A slow stop for the #20 BMW lost them positions too, down to 9th place. Out of the points, the #2 Cadillac got a puncture and became out-of-sync strategy-wise. And right out of the pits, on cold tyres, an #11 Isotta that already struggled for pace span and lost additional time.\n\nAround two hours and a quarter in, [b]the #12 Jota hit the wall at Tosa[/b]. [b]Both Jota cars already were uncharacteristically uncompetitive all race[/b], and although the car could keep going, it fell off the top 10. Not much more action happened until the midpoint of the race, only notably the #7 Toyota slowly catching up the #50 Ferrari with older tyres ahead.\n\nHalfway through the race, the field came for a third stop. The #51 Ferrari and #7 Toyota on third changed one side of tyres, while the #50 Ferrari remained on very old ones. Almost right out of the pits, [b]the #51 Ferrari got blocked by an LMGT3 and had to aggressively defend from its sister #50 car, who didn't manage to pass[/b]. On the following laps, [b]the #50 Ferrari struggled to have any pace but was successfully defending[/b] the Ferrari 1-2 from Toyota. Behind, the #20 BMW was back in 7th place, being the only newcomer car with good pace.",
+  "classification": [
+    {
+      "number": 51,
+      "distance": 0.0
+    },
+    {
+      "number": 50,
+      "distance": 13.77100000000064
+    },
+    {
+      "number": 7,
+      "distance": 14.537000000000262
+    },
+    {
+      "number": 6,
+      "distance": 25.191000000000713
+    },
+    {
+      "number": 5,
+      "distance": 31.381000000001222
+    },
+    {
+      "number": 8,
+      "distance": 43.28700000000026
+    },
+    {
+      "number": 20,
+      "distance": 66.48400000000038
+    },
+    {
+      "number": 83,
+      "distance": 69.91900000000169
+    },
+    {
+      "number": 12,
+      "distance": 98.0590000000011
+    },
+    {
+      "number": 38,
+      "distance": 106.51600000000144
+    },
+    {
+      "number": 63,
+      "distance": 113.64500000000044
+    },
+    {
+      "number": 99,
+      "distance": 116.85000000000036
+    },
+    {
+      "number": 93,
+      "version": "b",
+      "distance": 119.63800000000083
+    },
+    {
+      "number": 2,
+      "distance": 128.28900000000067
+    },
+    {
+      "number": 35,
+      "distance": 218.29500000000007
+    },
+    {
+      "number": 11,
+      "distance": 382.13900000000103
+    },
+    {
+      "number": 94,
+      "version": "b",
+      "distance": 396.9340000000011
+    },
+    {
+      "number": 36,
+      "distance": 457.7440000000006
+    },
+    {
+      "number": 15,
+      "distance": 4717.8150000000005
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "eventInfo": {
+    "name": "2024 6 Hours of Imola",
+    "year": 2024,
+    "currentLap": 180,
+    "totalLaps": 205,
+    "elapsedTime": 19280
+  },
+  "plotInfo": {
+    "amountOfLines": 4,
+    "secondsPerLine": 94,
+    "secondsPerLineIsLaps": true,
+    "linesPerLap": 1
+  },
+  "description": "With less than two hours to go, [b]the track was getting even wetter by the minute[/b]. [b]The #15 BMW, #99 Proton and #35 Alpine span on separate occasions[/b], losing a notable amount of time and causing Full Course Yellow periods for car retreval, while a few others had smaller exits without consequence. The field was just trying to survive without losing much time in the gravel. [b]The leading #7 Toyota pulled a gap of around 25 seconds over second placed #6 Porsche[/b]. [b]The #8 Toyota, the #20 BMW and the #5 Porsche battled for the last podium position[/b], the BMW even running in parallel with the Toyota after Tosa a couple of times. The #2 Cadillac came alive in the wet and gained several positions, from 12th to 9th.\n\nNow approaching the last hour of the race, [b]the rain was getting lighter[/b] and a dry line started appearing on most of the track. The conditions were good enough that in the last round of pit stops [b]the entire field except for the #51 Ferrari[/b] (still on wets) [b]stopped for slicks[/b]. On cold tyres, the #8 Toyota went through the gravel several times and ended up losing third place to the #6 Porsche. Just minutes later the #2 Cadillac entered pits for a splash-and-dash, and the #51 Ferrari stopped for slick tyres, both losing places in the process.\n\nAfter the last pit shuffle, with just under 40 minutes to go and still on a damp but drying track, [b]the #7 Toyota had a 10 second gap over the #6 Porsche, but the latter looked faster[/b]. [b]The Ferraris appeared to have the better pace now[/b] and looked to recover positions. [b]Toyotas, Porsches and Ferraris occupied the top 10 except for the #20 BMW and #2 Cadillac[/b], now 6th and 10th respectively. And while all that happened, the #99 Proton had to retire with mechanical issues.",
+  "classification": [
+    {
+      "number": 7,
+      "distance": 0.0
+    },
+    {
+      "number": 6,
+      "distance": 10.222999999998137
+    },
+    {
+      "number": 5,
+      "distance": 32.51900000000023
+    },
+    {
+      "number": 8,
+      "distance": 40.18399999999747
+    },
+    {
+      "number": 50,
+      "distance": 60.76199999999881
+    },
+    {
+      "number": 20,
+      "distance": 66.04999999999927
+    },
+    {
+      "number": 51,
+      "distance": 121.64999999999782
+    },
+    {
+      "number": 83,
+      "distance": 127.80699999999706
+    },
+    {
+      "number": 93,
+      "version": "b",
+      "distance": 166.28399999999965
+    },
+    {
+      "number": 2,
+      "distance": 169.96899999999732
+    },
+    {
+      "number": 38,
+      "distance": 216.382999999998
+    },
+    {
+      "number": 63,
+      "distance": 232.73699999999735
+    },
+    {
+      "number": 35,
+      "distance": 432.9529999999977
+    },
+    {
+      "number": 12,
+      "distance": 526.6800000000003
+    },
+    {
+      "number": 94,
+      "version": "b",
+      "distance": 548.6719999999987
+    },
+    {
+      "number": 36,
+      "distance": 550.8590000000004
+    },
+    {
+      "number": 11,
+      "distance": 1271.9519999999975
+    },
+    {
+      "number": 15,
+      "distance": 4590.936
+    },
+    {
+      "number": 99,
+      "distance": "DNF"
+    }
+  ]
+}

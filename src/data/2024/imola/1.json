@@ -1,0 +1,96 @@
+{
+  "eventInfo": {
+    "name": "2024 6 Hours of Imola",
+    "year": 2024,
+    "currentLap": 28,
+    "totalLaps": 205,
+    "elapsedTime": 2981
+  },
+  "plotInfo": {
+    "amountOfLines": 4,
+    "secondsPerLine": 20,
+    "secondsPerLineIsLaps": false,
+    "linesPerLap": 1
+  },
+  "description": "The race started in dry conditions. The Ferraris, starting in the top 3, kept the podium places, although [b]the #51 Ferrari passed the #83 for second place[/b]. At the back of the field, though, there was a [b]big crash at Tamburello that involved 5 hypercars[/b]: the #11 Isotta tapped an Alpine and caused a multiple reaction that damaged the Isotta itself, both Alpines, the #94 Peugeot and the #15 BMW. [b]The Safety Car was called immediately[/b]. While [b]the Isotta and the #35 Alpine could rejoin[/b] without much damage, [b]the sister Alpine, the Peugeot and the BMW needed extensive repairs[/b] and lost several laps.\n\nAfter the Safety Car period ended, the field ran closely for a few laps. The top 10 remained mostly unchanged after the start, as apart from the Ferraris switching positions, [b]only the #7 Toyota managed to pass the #5 Porsche[/b]. The Ferraris were followed by the Porsches, Toyotas and #20 BMW. Soon, though, two things would be clear: [b]it was very hard to overtake[/b], and [b]Ferrari, Porsche and Toyota[/b] had a bit more pace than the rest. As laps went by, the top 6 opened a gap while the midfield couldn't keep the pace. The #8 Toyota was stuck in 8th place behind the #20 BMW and lost more than 10 seconds to the other cars ahead. Notably, running in 11th, [b]the #63 Lamborghini was comfortably keeping with the midfield[/b] this time.\n\nDuring this first hour, [b]the #93 Peugeot had momentary gearbox issues[/b] that cost it some places, although it could continue the race without issue and, most importantly, without being lapped.",
+  "classification": [
+    {
+      "number": 50,
+      "distance": 0.0
+    },
+    {
+      "number": 51,
+      "distance": 2.161000000000058
+    },
+    {
+      "number": 83,
+      "distance": 2.6409999999996217
+    },
+    {
+      "number": 6,
+      "distance": 4.234999999999673
+    },
+    {
+      "number": 7,
+      "distance": 5.8289999999997235
+    },
+    {
+      "number": 5,
+      "distance": 7.808999999999742
+    },
+    {
+      "number": 20,
+      "distance": 16.253999999999905
+    },
+    {
+      "number": 8,
+      "distance": 16.661000000000058
+    },
+    {
+      "number": 38,
+      "distance": 20.21199999999999
+    },
+    {
+      "number": 12,
+      "distance": 23.491999999999734
+    },
+    {
+      "number": 63,
+      "distance": 24.73999999999978
+    },
+    {
+      "number": 99,
+      "distance": 25.666999999999916
+    },
+    {
+      "number": 2,
+      "distance": 30.10199999999986
+    },
+    {
+      "number": 11,
+      "distance": 44.865999999999985
+    },
+    {
+      "number": 35,
+      "distance": 45.447999999999865
+    },
+    {
+      "number": 93,
+      "version": "b",
+      "distance": 51.7529999999997
+    },
+    {
+      "number": 94,
+      "version": "b",
+      "distance": 140.73900000000003
+    },
+    {
+      "number": 36,
+      "distance": 273.5909999999999
+    },
+    {
+      "number": 15,
+      "distance": 3107.246
+    }
+  ]
+}

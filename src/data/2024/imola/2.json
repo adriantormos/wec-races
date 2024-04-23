@@ -1,0 +1,96 @@
+{
+  "eventInfo": {
+    "name": "2024 6 Hours of Imola",
+    "year": 2024,
+    "currentLap": 59,
+    "totalLaps": 205,
+    "elapsedTime": 5964
+  },
+  "plotInfo": {
+    "amountOfLines": 4,
+    "secondsPerLine": 47,
+    "secondsPerLineIsLaps": true,
+    "linesPerLap": 2
+  },
+  "description": "At the hour mark came the first round of pit stops, and the top 6 cars completely shuffled positions. [b]The #50 Ferrari changed one tyre and fell down to sixth place[/b], and [b]the sister #51 now led the race[/b]. Prioritizing track position, [b]the #6 Porsche had a slightly shorter stop by underfueling, and jumped to second[/b]. Behind them, the #20 BMW performed the same strategy to keep seventh place. Also around this time, the #15 BMW finally rejoined the track, around 50 minutes behind its next competitor. Having already lost all hope for the car, BMW used it to gather tyre data for strategy.\n\nThe second hour saw the top 8 running quite close again, in around 30 seconds. Most of the cars double-stinted the tyres, but [b]it was only the Porsches that clearly lost pace[/b]. [b]The Toyotas and the #20 BMW got stuck behind Porsches[/b], while [b]the #51 Ferrari opened a gap in the lead and the #50 Ferrari overtook the #5 Porsche[/b] on track for fourth position.\n\n[b]The #36 Alpine[/b], already laps behind, [b]got a stop-and-go penalty[/b] for causing the first lap incident. The [b]#83 AF Corse got a drive through penalty for overtaking an LMGT3 car on a previous short FCY period[/b] and fell to 9th, and the #99 Proton got another one for abusing track limits.",
+  "classification": [
+    {
+      "number": 51,
+      "distance": 0.0
+    },
+    {
+      "number": 6,
+      "distance": 9.456000000000131
+    },
+    {
+      "number": 7,
+      "distance": 10.105999999999767
+    },
+    {
+      "number": 50,
+      "distance": 22.444000000000415
+    },
+    {
+      "number": 5,
+      "distance": 27.502000000000407
+    },
+    {
+      "number": 20,
+      "distance": 27.932999999999993
+    },
+    {
+      "number": 8,
+      "distance": 29.85199999999986
+    },
+    {
+      "number": 12,
+      "distance": 46.26000000000022
+    },
+    {
+      "number": 83,
+      "distance": 46.9970000000003
+    },
+    {
+      "number": 38,
+      "distance": 53.16100000000006
+    },
+    {
+      "number": 63,
+      "distance": 55.32800000000043
+    },
+    {
+      "number": 93,
+      "version": "b",
+      "distance": 67.84000000000015
+    },
+    {
+      "number": 2,
+      "distance": 74.27999999999975
+    },
+    {
+      "number": 99,
+      "distance": 98.83799999999974
+    },
+    {
+      "number": 35,
+      "distance": 102.94999999999982
+    },
+    {
+      "number": 11,
+      "distance": 126.28400000000056
+    },
+    {
+      "number": 94,
+      "version": "b",
+      "distance": 189.0550000000003
+    },
+    {
+      "number": 36,
+      "distance": 412.8699999999999
+    },
+    {
+      "number": 15,
+      "distance": 3126.6989999999996
+    }
+  ]
+}
