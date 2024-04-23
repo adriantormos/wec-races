@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/wec-races/static/css/main.0e0b6bb0.css",
-    "main.js": "/wec-races/static/js/main.39627f61.js",
+    "main.js": "/wec-races/static/js/main.439bc5ce.js",
     "static/js/592.7e245927.chunk.js": "/wec-races/static/js/592.7e245927.chunk.js",
     "index.html": "/wec-races/index.html",
     "main.0e0b6bb0.css.map": "/wec-races/static/css/main.0e0b6bb0.css.map",
-    "main.39627f61.js.map": "/wec-races/static/js/main.39627f61.js.map",
+    "main.439bc5ce.js.map": "/wec-races/static/js/main.439bc5ce.js.map",
     "592.7e245927.chunk.js.map": "/wec-races/static/js/592.7e245927.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0e0b6bb0.css",
-    "static/js/main.39627f61.js"
+    "static/js/main.439bc5ce.js"
   ]
 }
