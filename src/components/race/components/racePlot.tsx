@@ -36,7 +36,8 @@ export function CarImage(props: {position: [number, number], image: string}) {
 
 export class RacePlot extends React.Component<RacePlotProps, { tooltipStates: {text: string, position: [number, number]}[] } > {
     private readonly raceCarAreaHeight: number;
-    private readonly carImages: Record<number, Record<number, string>>;  // 1st key - year/season; 2nd key - #car
+    // private readonly carImages: Record<number, Record<number, string>>;  // 1st key - year/season; 2nd key - #car
+    private readonly carImages: Record<string, string>;
 
     constructor(props: RacePlotProps) {
         super(props);
@@ -57,15 +58,20 @@ export class RacePlot extends React.Component<RacePlotProps, { tooltipStates: {t
         // const images = require.context('../imgs/2023', true);
 
         for (const key of images.keys()) {
-            let matches = key.match(/(\d+)/g) ?? -1;
-            if (typeof matches === "number")
-                this.carImages[matches] = images(key);
-            else {
-                if (!(matches[0] in this.carImages))
-                    this.carImages[parseInt(matches[0])] = {}
-                this.carImages[parseInt(matches[0])][parseInt(matches[1])] = images(key);
-            }
+            this.carImages[key] = images(key);
         }
+
+        // for (const key of images.keys()) {
+        //     let matches = key.match(/(\d+)/g) ?? -1;
+        //     console.log(key, matches);
+        //     if (typeof matches === "number")
+        //         this.carImages[matches] = images(key);
+        //     else {
+        //         if (!(matches[0] in this.carImages))
+        //             this.carImages[parseInt(matches[0])] = {}
+        //         this.carImages[parseInt(matches[0])][parseInt(matches[1])] = images(key);
+        //     }
+        // }
     }
 
     getLineHeights() {
@@ -173,7 +179,8 @@ export class RacePlot extends React.Component<RacePlotProps, { tooltipStates: {t
                                          })
                                  }} >
                                 <CarImage position={[x, plotConfig.margin + y]}
-                                          image={this.carImages[this.props.race.eventInfo.year][this.props.race.classification[index].number]} />
+                                          // image={this.carImages[this.props.race.eventInfo.year][this.props.race.classification[index].number]} />
+                                          image={this.carImages[`./${this.props.race.eventInfo.year}/${this.props.race.classification[index].number}${this.props.race.classification[index].version ?? ""}.png`]} />
                             </div>
                         )}
                     {carPositions

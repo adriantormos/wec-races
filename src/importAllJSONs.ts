@@ -26,6 +26,13 @@ import qatar2024_5 from './data/2024/qatar/5.json';
 import qatar2024_6 from './data/2024/qatar/6.json';
 import qatar2024_7 from './data/2024/qatar/7.json';
 import qatar2024_8 from './data/2024/qatar/8.json';
+import imola2024_Q from './data/2024/imola/Q.json';
+import imola2024_1 from './data/2024/imola/1.json';
+import imola2024_2 from './data/2024/imola/2.json';
+import imola2024_3 from './data/2024/imola/3.json';
+import imola2024_4 from './data/2024/imola/4.json';
+import imola2024_5 from './data/2024/imola/5.json';
+import imola2024_6 from './data/2024/imola/6.json';
 
 
 export const AllDataJSONs: Record<number, Record<string, Record<number | 'Q', QualyFromJSON | RaceFromJSON>>> = {
@@ -67,5 +74,15 @@ export const AllDataJSONs: Record<number, Record<string, Record<number | 'Q', Qu
             7: qatar2024_7 as RaceFromJSON,
             8: qatar2024_8 as RaceFromJSON,
         },
+        'imola': {
+            Q: imola2024_Q as QualyFromJSON,
+            1: imola2024_1 as RaceFromJSON,
+            2: imola2024_2 as RaceFromJSON,
+            3: imola2024_3 as RaceFromJSON,
+            4: imola2024_4 as RaceFromJSON,
+            5: imola2024_5 as RaceFromJSON,
+            6: imola2024_6 as RaceFromJSON,
+        },
     },
 }
+

@@ -55,6 +55,7 @@ export type RaceClassificationProps = {
 export type RaceClassification = RaceEntryConfig[];
 export type RaceEntryConfig = {
     number: number,
+    version?: string,
     distance: number | "DNF" | "DSQ" | "No time",
     distanceHyperpole?: number | "No time",
     time?: string,
